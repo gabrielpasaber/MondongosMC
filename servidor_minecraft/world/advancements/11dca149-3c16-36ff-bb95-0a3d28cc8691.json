@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-05-24 21:02:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-05-24 20:45:27 +0000"
@@ -248,6 +254,18 @@
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-24 20:23:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-05-24 21:02:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-24 21:02:48 +0000"
     },
     "done": true
   },
@@ -425,6 +443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-24 21:02:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2025-05-24 20:23:49 +0000"
@@ -575,6 +599,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-24 21:02:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2025-05-24 20:23:49 +0000"
@@ -596,6 +626,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-05-24 20:26:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-05-24 21:02:48 +0000"
     },
     "done": true
   },
@@ -644,6 +680,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-05-24 20:24:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-05-24 20:59:51 +0000"
     },
     "done": true
   },
@@ -710,6 +752,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-05-24 20:23:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-24 21:02:48 +0000"
     },
     "done": true
   },
@@ -780,6 +828,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-05-24 21:02:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-05-24 20:31:11 +0000"
@@ -813,6 +867,12 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-05-24 20:23:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-05-24 21:02:36 +0000"
     },
     "done": true
   },
@@ -999,6 +1059,13 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "rotten_flesh": "2025-05-24 21:04:43 +0000",
+      "cooked_mutton": "2025-05-24 21:01:56 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-05-24 20:23:57 +0000"
@@ -1026,6 +1093,12 @@
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2025-05-24 20:38:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-05-24 21:01:56 +0000"
     },
     "done": true
   },
@@ -1137,6 +1210,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-24 21:02:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-05-24 20:24:44 +0000"
@@ -1146,6 +1225,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-05-24 20:38:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-05-24 21:02:48 +0000"
     },
     "done": true
   },
