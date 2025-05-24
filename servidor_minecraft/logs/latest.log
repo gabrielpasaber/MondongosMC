@@ -965,3 +965,6 @@
 [02:52:42] [Server thread/WARN]: nicockla moved too quickly! -9.906569302962112,-0.2247629905309907,2.4918099126161906
 [02:52:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3490ms or 69 ticks behind
 [02:54:46] [Server thread/ERROR]: POI data mismatch: never registered at jd{x=-477, y=68, z=-2481}
+[02:59:01] [Server thread/INFO]: IamDJ_Master has made the advancement [What a Deal!]
+[03:03:42] [Server thread/INFO]: nicockla lost connection: Disconnected
+[03:03:42] [Server thread/INFO]: nicockla left the game
