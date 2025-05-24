@@ -5753,3 +5753,62 @@
 [24May2025 02:01:18.390] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Palmarsisa: Made nicockla a server operator]
 [24May2025 02:01:24.734] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Palmarsisa: Set nicockla's game mode to Creative Mode]
 [24May2025 02:01:25.716] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [IamDJ_Master: Teleported 3 entities to 1000.5, 70.0, 58.5]
+[24May2025 02:02:31.124] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2151ms or 43 ticks behind
+[24May2025 02:02:31.723] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Palmarsisa: Teleported Palmarsisa to -467.5, 60.0, -2399.5]
+[24May2025 02:02:33.243] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Palmarsisa: Teleported Palmarsisa to -467.5, 60.0, -2399.5]
+[24May2025 02:02:33.247] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: nicockla moved too quickly! -3.0961780912971335,0.0,-9.521413262749093
+[24May2025 02:02:35.993] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [nicockla: Teleported nicockla to 4452.5, 97.10244281292155, -1675.5]
+[24May2025 02:02:37.003] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [IamDJ_Master: Teleported IamDJ_Master to 5800.5, 96.9671067123899, -451.5]
+[24May2025 02:02:54.391] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [nicockla: Teleported nicockla to Palmarsisa]
+[24May2025 02:02:56.797] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [IamDJ_Master: Teleported IamDJ_Master to Palmarsisa]
+[24May2025 02:03:11.337] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Palmarsisa: Set the world spawn point to -501, 69, -2467 [0.0]]
+[24May2025 02:03:18.251] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Palmarsisa fell out of the world
+[24May2025 02:03:18.251] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Palmarsisa: Killed Palmarsisa]
+[24May2025 02:03:23.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [nicockla: Changed the block at -499, 66, -2465]
+[24May2025 02:03:26.565] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: nicockla fell out of the world
+[24May2025 02:03:26.565] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [IamDJ_Master: Killed nicockla]
+[24May2025 02:03:34.832] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: nicockla fell out of the world
+[24May2025 02:03:34.833] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [IamDJ_Master: Killed nicockla]
+[24May2025 02:03:38.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [IamDJ_Master: Teleported IamDJ_Master to Palmarsisa]
+[24May2025 02:03:42.871] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: IamDJ_Master fell out of the world
+[24May2025 02:03:42.872] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/28453, l='ServerLevel[world]', x=-469.17, y=66.00, z=-2449.46] died, message: 'Villager fell out of the world'
+[24May2025 02:03:42.876] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/29066, l='ServerLevel[world]', x=-506.92, y=68.56, z=-2492.89] died, message: 'Villager fell out of the world'
+[24May2025 02:03:42.876] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Fletcher'/29070, l='ServerLevel[world]', x=-477.57, y=66.00, z=-2474.43] died, message: 'Fletcher fell out of the world'
+[24May2025 02:03:42.879] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/29159, l='ServerLevel[world]', x=-471.58, y=68.00, z=-2527.51] died, message: 'Villager fell out of the world'
+[24May2025 02:03:42.879] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/29161, l='ServerLevel[world]', x=-509.30, y=68.00, z=-2493.13] died, message: 'Villager fell out of the world'
+[24May2025 02:03:42.880] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Weaponsmith'/29163, l='ServerLevel[world]', x=-507.70, y=68.00, z=-2493.48] died, message: 'Weaponsmith fell out of the world'
+[24May2025 02:03:42.881] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/29164, l='ServerLevel[world]', x=-471.52, y=68.00, z=-2497.49] died, message: 'Villager fell out of the world'
+[24May2025 02:03:42.882] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/29201, l='ServerLevel[world]', x=-472.66, y=68.00, z=-2496.57] died, message: 'Villager fell out of the world'
+[24May2025 02:03:42.883] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Nitwit'/29206, l='ServerLevel[world]', x=-501.18, y=69.00, z=-2537.58] died, message: 'Nitwit fell out of the world'
+[24May2025 02:03:42.885] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/29245, l='ServerLevel[world]', x=-491.14, y=72.00, z=-2539.48] died, message: 'Farmer fell out of the world'
+[24May2025 02:03:42.885] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/29247, l='ServerLevel[world]', x=-494.71, y=70.54, z=-2540.55] died, message: 'Villager fell out of the world'
+[24May2025 02:03:42.890] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Palmarsisa fell out of the world
+[24May2025 02:03:42.891] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: nicockla fell out of the world
+[24May2025 02:03:42.891] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [nicockla: Killed 322 entities]
+[24May2025 02:03:57.902] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Palmarsisa: Teleported 3 entities to Palmarsisa]
+[24May2025 02:04:00.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Palmarsisa: Teleported 3 entities to Palmarsisa]
+[24May2025 02:04:19.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: nicockla has made the advancement [Acquire Hardware]
+[24May2025 02:06:05.632] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Palmarsisa lost connection: Disconnected
+[24May2025 02:06:05.633] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Palmarsisa left the game
+[24May2025 02:06:17.186] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2db69ce2
+[24May2025 02:06:17.191] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Palmarsisa[/127.102.97.95:39381] logged in with entity id 32029 at (-578.1120097902179, 69.0, -2455.4548841574547)
+[24May2025 02:06:17.196] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Palmarsisa joined the game
+[24May2025 02:06:21.339] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Palmarsisa lost connection: You logged in from another location
+[24May2025 02:06:21.339] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Palmarsisa left the game
+[24May2025 02:06:21.348] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3a761857
+[24May2025 02:06:21.380] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[24May2025 02:06:21.382] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Palmarsisa[/127.102.97.95:54875] logged in with entity id 32095 at (-561.256172239683, 73.62611552405195, -2451.780598999872)
+[24May2025 02:06:21.385] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Palmarsisa joined the game
+[24May2025 02:06:33.823] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Palmarsisa: Made nicockla no longer a server operator]
+[24May2025 02:06:33.825] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Palmarsisa: Made nicockla no longer a server operator]
+[24May2025 02:06:33.827] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Palmarsisa: Made nicockla no longer a server operator]
+[24May2025 02:07:02.383] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set nicockla's game mode to Survival Mode
+[24May2025 02:07:02.383] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set IamDJ_Master's game mode to Survival Mode
+[24May2025 02:07:02.384] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set Palmarsisa's game mode to Survival Mode
+[24May2025 02:07:18.739] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Removed 59 items from player IamDJ_Master
+[24May2025 02:07:39.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: nicockla has made the advancement [Monster Hunter]
+[24May2025 02:08:06.128] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: IamDJ_Master has made the advancement [Diamonds!]
+[24May2025 02:08:06.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: IamDJ_Master has made the advancement [Suit Up]
+[24May2025 02:08:20.737] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Removed 24 items from player IamDJ_Master
+[24May2025 02:09:44.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: IamDJ_Master tried to swim in lava to escape Palmarsisa
+[24May2025 02:09:47.731] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Palmarsisa tried to swim in lava

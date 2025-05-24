@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-24 01:58:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-24 01:57:07 +0000"
@@ -248,6 +254,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-24 01:45:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-05-24 01:58:34 +0000"
     },
     "done": true
   },
@@ -367,8 +379,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_mountains": "2025-05-24 02:01:49 +0000",
       "minecraft:forest": "2025-05-24 01:48:32 +0000",
+      "minecraft:snowy_tundra": "2025-05-24 02:01:37 +0000",
       "minecraft:desert": "2025-05-24 01:54:05 +0000",
+      "minecraft:bamboo_jungle": "2025-05-24 02:02:37 +0000",
+      "minecraft:dark_forest": "2025-05-24 02:02:57 +0000",
       "minecraft:savanna": "2025-05-24 01:48:39 +0000",
       "minecraft:plains": "2025-05-24 01:43:13 +0000"
     },
@@ -491,7 +507,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-05-24 01:50:14 +0000",
-      "minecraft:spider": "2025-05-24 01:54:25 +0000"
+      "minecraft:skeleton": "2025-05-24 01:58:28 +0000",
+      "minecraft:spider": "2025-05-24 01:54:25 +0000",
+      "minecraft:silverfish": "2025-05-24 01:58:45 +0000"
     },
     "done": false
   },
