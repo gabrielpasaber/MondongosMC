@@ -4,5 +4,11 @@
     "name": "ni",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "38fde12f-d0eb-3f19-8be6-8f5f2e0da9e2",
+    "name": "IamDJ_Master",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
