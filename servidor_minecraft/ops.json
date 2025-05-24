@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "231b0c97-a6b4-3903-ab9f-6dc78af7c267",
+    "name": "nicockla",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "38fde12f-d0eb-3f19-8be6-8f5f2e0da9e2",
     "name": "IamDJ_Master",
     "level": 4,
