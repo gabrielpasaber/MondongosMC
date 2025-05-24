@@ -974,3 +974,8 @@
 [03:15:44] [Server thread/INFO]: juandamio left the game
 [03:15:54] [Server thread/INFO]: juandamio[/127.42.15.113:40783] logged in with entity id 12998 at (-557.2489500185338, 64.0, -2502.3640335850605)
 [03:15:54] [Server thread/INFO]: juandamio joined the game
+[03:21:23] [Server thread/INFO]: nicockla[/127.173.120.242:34879] logged in with entity id 14209 at (-497.23927614901504, 67.0, -2479.432913312961)
+[03:21:23] [Server thread/INFO]: nicockla joined the game
+[03:22:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-500, y=68, z=-2466}
+[03:22:40] [Server thread/INFO]: [IamDJ_Master: Set the time to 1000]
+[03:25:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-479, y=63, z=-2445} jd{x=-494, y=67, z=-2456}
