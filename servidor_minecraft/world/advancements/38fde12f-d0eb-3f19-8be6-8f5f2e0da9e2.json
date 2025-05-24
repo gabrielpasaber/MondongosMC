@@ -233,6 +233,7 @@
     "criteria": {
       "minecraft:pillager": "2025-05-24 01:50:14 +0000",
       "minecraft:skeleton": "2025-05-24 01:58:28 +0000",
+      "minecraft:phantom": "2025-05-24 04:59:33 +0000",
       "minecraft:silverfish": "2025-05-24 01:58:45 +0000",
       "minecraft:spider": "2025-05-24 01:54:25 +0000",
       "minecraft:zombie": "2025-05-24 02:34:39 +0000",
@@ -837,7 +838,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-05-24 04:55:39 +0000",
       "bread": "2025-05-24 02:37:46 +0000",
+      "cooked_chicken": "2025-05-24 05:00:25 +0000",
       "rotten_flesh": "2025-05-24 02:53:39 +0000"
     },
     "done": false
@@ -1283,6 +1286,30 @@
   "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
     "criteria": {
       "has_log": "2025-05-24 03:57:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-05-24 05:09:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-05-24 04:55:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-05-24 05:09:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-05-24 04:55:20 +0000"
     },
     "done": true
   },
