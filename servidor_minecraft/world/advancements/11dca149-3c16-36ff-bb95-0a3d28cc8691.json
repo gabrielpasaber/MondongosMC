@@ -719,6 +719,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-24 21:19:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-05-24 20:23:57 +0000"
@@ -728,6 +734,12 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-24 20:28:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-05-24 21:11:43 +0000"
     },
     "done": true
   },
@@ -812,7 +824,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-24 20:45:35 +0000",
-      "minecraft:zombie": "2025-05-24 20:48:39 +0000"
+      "minecraft:enderman": "2025-05-24 21:14:34 +0000",
+      "minecraft:zombie": "2025-05-24 20:48:39 +0000",
+      "minecraft:creeper": "2025-05-24 21:13:03 +0000"
     },
     "done": false
   },
@@ -965,6 +979,7 @@
       "minecraft:desert": "2025-05-24 20:21:44 +0000",
       "minecraft:dark_forest": "2025-05-24 20:22:55 +0000",
       "minecraft:river": "2025-05-24 20:45:47 +0000",
+      "minecraft:dripstone_caves": "2025-05-24 21:10:20 +0000",
       "minecraft:plains": "2025-05-24 20:21:53 +0000"
     },
     "done": false
@@ -1047,6 +1062,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-05-24 21:08:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_tuff": {
     "criteria": {
       "has_tuff": "2025-05-24 20:31:11 +0000"
@@ -1061,6 +1082,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "bread": "2025-05-24 21:18:10 +0000",
       "rotten_flesh": "2025-05-24 21:04:43 +0000",
       "cooked_mutton": "2025-05-24 21:01:56 +0000"
     },
@@ -1081,6 +1103,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-24 20:28:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-24 21:08:50 +0000"
     },
     "done": true
   },
