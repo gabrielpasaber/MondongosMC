@@ -536,6 +536,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-05-24 22:04:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-24 21:27:50 +0000"
@@ -668,9 +674,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-05-24 22:01:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-05-24 21:28:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-05-24 22:04:16 +0000"
     },
     "done": true
   },
@@ -728,6 +746,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-05-24 22:04:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-05-24 21:33:37 +0000"
@@ -738,6 +762,7 @@
     "criteria": {
       "minecraft:blaze": "2025-05-24 21:55:45 +0000",
       "minecraft:skeleton": "2025-05-24 21:27:57 +0000",
+      "minecraft:spider": "2025-05-24 22:04:16 +0000",
       "minecraft:wither_skeleton": "2025-05-24 21:56:36 +0000",
       "minecraft:zombie": "2025-05-24 21:24:22 +0000",
       "minecraft:husk": "2025-05-24 21:24:15 +0000"
@@ -789,6 +814,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-05-24 21:28:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-05-24 22:04:16 +0000"
     },
     "done": true
   },
@@ -870,6 +901,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-05-24 22:01:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-05-24 21:26:19 +0000"
@@ -879,6 +916,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-24 21:32:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-05-24 22:04:16 +0000"
     },
     "done": true
   },
@@ -965,6 +1008,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-24 21:27:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-05-24 22:04:16 +0000"
     },
     "done": true
   },
