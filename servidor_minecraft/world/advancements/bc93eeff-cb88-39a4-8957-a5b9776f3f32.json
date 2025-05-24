@@ -8,14 +8,23 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2025-05-24 04:20:56 +0000",
+      "minecraft:savanna_plateau": "2025-05-24 05:43:35 +0000",
       "minecraft:beach": "2025-05-24 04:20:51 +0000",
-      "minecraft:desert": "2025-05-24 03:54:18 +0000",
       "minecraft:old_growth_pine_taiga": "2025-05-24 04:26:12 +0000",
       "minecraft:dark_forest": "2025-05-24 03:30:00 +0000",
       "minecraft:forest": "2025-05-24 04:18:27 +0000",
       "minecraft:taiga": "2025-05-24 04:00:51 +0000",
+      "minecraft:sparse_jungle": "2025-05-24 05:36:59 +0000",
       "minecraft:river": "2025-05-24 04:25:06 +0000",
+      "minecraft:lukewarm_ocean": "2025-05-24 05:37:33 +0000",
       "minecraft:lush_caves": "2025-05-24 04:28:47 +0000",
+      "minecraft:desert": "2025-05-24 03:54:18 +0000",
+      "minecraft:windswept_forest": "2025-05-24 05:48:16 +0000",
+      "minecraft:ocean": "2025-05-24 05:32:37 +0000",
+      "minecraft:jungle": "2025-05-24 05:47:37 +0000",
+      "minecraft:windswept_hills": "2025-05-24 05:49:09 +0000",
+      "minecraft:savanna": "2025-05-24 05:35:18 +0000",
+      "minecraft:bamboo_jungle": "2025-05-24 05:44:31 +0000",
       "minecraft:plains": "2025-05-24 03:29:09 +0000"
     },
     "done": false
@@ -155,10 +164,12 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-24 03:54:11 +0000",
+      "minecraft:phantom": "2025-05-24 05:24:36 +0000",
       "minecraft:witch": "2025-05-24 03:54:27 +0000",
       "minecraft:spider": "2025-05-24 03:35:02 +0000",
       "minecraft:zombie": "2025-05-24 04:27:52 +0000",
-      "minecraft:creeper": "2025-05-24 04:27:33 +0000"
+      "minecraft:creeper": "2025-05-24 04:27:33 +0000",
+      "minecraft:drowned": "2025-05-24 05:16:23 +0000"
     },
     "done": false
   },
@@ -922,6 +933,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-05-24 05:19:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-24 04:46:32 +0000"
@@ -937,6 +954,12 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-05-24 04:57:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-24 05:13:08 +0000"
     },
     "done": true
   },
@@ -961,6 +984,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-05-24 04:53:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "salmon": "2025-05-24 05:22:07 +0000"
     },
     "done": true
   },
@@ -1012,6 +1041,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-24 05:12:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2025-05-24 04:46:32 +0000"
@@ -1036,6 +1071,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-24 05:15:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-05-24 04:53:15 +0000"
@@ -1057,6 +1098,12 @@
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-05-24 04:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-24 05:15:01 +0000"
     },
     "done": true
   },
@@ -1096,6 +1143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-05-24 05:15:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-24 04:46:32 +0000"
@@ -1105,6 +1158,24 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-05-24 04:53:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-24 05:12:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-24 05:12:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-05-24 05:13:08 +0000"
     },
     "done": true
   },
@@ -1129,6 +1200,12 @@
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-05-24 04:53:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-24 05:13:08 +0000"
     },
     "done": true
   },
@@ -1174,15 +1251,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-05-24 05:13:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-05-24 04:53:15 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-05-24 05:17:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_the_recipe": "2025-05-24 04:42:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-05-24 05:17:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-24 05:12:04 +0000"
     },
     "done": true
   },
@@ -1240,6 +1341,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-24 05:12:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_core": "2025-05-24 04:53:41 +0000"
@@ -1255,6 +1362,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-05-24 04:53:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-24 05:12:04 +0000"
     },
     "done": true
   },
