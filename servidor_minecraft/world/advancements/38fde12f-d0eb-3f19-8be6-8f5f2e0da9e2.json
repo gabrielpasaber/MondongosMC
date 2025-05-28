@@ -851,6 +851,7 @@
       "cooked_chicken": "2025-05-24 05:00:25 +0000",
       "honey_bottle": "2025-05-28 04:23:50 +0000",
       "rotten_flesh": "2025-05-24 02:53:39 +0000",
+      "cooked_beef": "2025-05-28 05:22:16 +0000",
       "baked_potato": "2025-05-28 04:47:04 +0000",
       "cooked_salmon": "2025-05-28 04:06:41 +0000",
       "golden_carrot": "2025-05-28 04:56:55 +0000",
@@ -1392,6 +1393,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flow_armor_trim_smithing_template": {
+    "criteria": {
+      "has_flow_armor_trim_smithing_template": "2025-05-28 05:12:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_tuff_wall": {
     "criteria": {
       "has_polished_tuff": "2025-05-28 04:14:24 +0000"
@@ -1665,6 +1672,12 @@
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-05-28 03:55:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flow_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-28 05:12:59 +0000"
     },
     "done": true
   },

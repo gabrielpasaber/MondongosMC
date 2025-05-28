@@ -1414,6 +1414,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-05-28 05:13:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/under_lock_and_key": {
     "criteria": {
       "under_lock_and_key": "2025-05-28 04:16:34 +0000"
@@ -1570,6 +1576,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-05-28 05:13:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/waxed_oxidized_copper_bulb": {
     "criteria": {
       "has_waxed_oxidized_copper": "2025-05-28 04:12:48 +0000"
@@ -1633,6 +1645,12 @@
   "minecraft:recipes/decorations/honeycomb_block": {
     "criteria": {
       "has_honeycomb": "2025-05-28 04:25:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-05-28 05:13:12 +0000"
     },
     "done": true
   },
