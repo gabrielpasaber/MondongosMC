@@ -1,295 +1,38 @@
-[20:20:31] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:20:33] [ServerMain/INFO]: Loaded 1290 recipes
-[20:20:33] [ServerMain/INFO]: Loaded 1399 advancements
-[20:20:34] [Server thread/INFO]: Starting minecraft server version 1.21
-[20:20:34] [Server thread/INFO]: Loading properties
-[20:20:34] [Server thread/INFO]: Default game type: SURVIVAL
-[20:20:34] [Server thread/INFO]: Generating keypair
-[20:20:34] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:20:34] [Server thread/INFO]: Using epoll channel type
-[20:20:34] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:20:34] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:20:34] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:20:34] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:20:34] [Server thread/INFO]: Preparing level "world"
-[20:20:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:20:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:20:38] [Worker-Main-1/INFO]: Preparing spawn area: 4%
-[20:20:38] [Worker-Main-1/INFO]: Preparing spawn area: 53%
-[20:20:38] [Server thread/INFO]: Time elapsed: 1222 ms
-[20:20:38] [Server thread/INFO]: Done (4.290s)! For help, type "help"
-[20:21:43] [Server thread/INFO]: sisaneytor[/127.225.238.10:43061] logged in with entity id 25 at (-522.5, 68.0, -2429.5)
-[20:21:43] [Server thread/INFO]: sisaneytor joined the game
-[20:21:55] [Server thread/INFO]: nicockla[/127.173.120.242:39237] logged in with entity id 237 at (-502.6005154129551, 69.875, -2523.1193162319883)
-[20:21:55] [Server thread/INFO]: nicockla joined the game
-[20:22:01] [Server thread/INFO]: jhacops[/127.73.23.162:54215] logged in with entity id 306 at (-534.5, 69.0, -2438.5)
-[20:22:01] [Server thread/INFO]: jhacops joined the game
-[20:23:30] [Server thread/INFO]: Villager cmk['Villager'/129, l='ServerLevel[world]', x=-486.70, y=68.94, z=-2554.52] died, message: 'Villager was slain by Zombie'
-[20:23:47] [Server thread/INFO]: jhacops has made the advancement [Suit Up]
-[20:23:57] [Server thread/INFO]: sisaneytor has made the advancement [Stone Age]
-[20:24:06] [Server thread/INFO]: jhacops has made the advancement [Isn't It Iron Pick]
-[20:24:36] [Server thread/INFO]: Villager cmk['Villager'/41, l='ServerLevel[world]', x=-494.43, y=70.00, z=-2524.51] died, message: 'Villager was slain by Zombie'
-[20:24:38] [Server thread/INFO]: jhacops has made the advancement [Monster Hunter]
-[20:24:41] [Server thread/INFO]: Villager cmk['Farmer'/130, l='ServerLevel[world]', x=-495.50, y=70.50, z=-2527.93] died, message: 'Farmer was slain by Zombie'
-[20:24:58] [Server thread/INFO]: sisaneytor has made the advancement [Getting an Upgrade]
-[20:27:43] [Server thread/INFO]: Pastichooo_[/127.125.21.66:58345] logged in with entity id 1700 at (-541.5, 68.0, -2422.5)
-[20:27:43] [Server thread/INFO]: Pastichooo_ joined the game
-[20:28:31] [Server thread/INFO]: [Not Secure] <Pastichooo_> 1
-[20:28:32] [Server thread/INFO]: [Not Secure] <Pastichooo_> 2
-[20:28:33] [Server thread/INFO]: [Not Secure] <Pastichooo_> 3
-[20:28:35] [Server thread/INFO]: [Not Secure] <Pastichooo_> kairoi somo todo
-[20:28:39] [Server thread/INFO]: [Not Secure] <Pastichooo_> jeeesucristo
-[20:28:42] [Server thread/INFO]: [Not Secure] <Pastichooo_> jeeesucristo
-[20:28:44] [Server thread/INFO]: [Not Secure] <Pastichooo_> jeeescurits
-[20:28:46] [Server thread/INFO]: [Not Secure] <Pastichooo_> uuuuuuuuu
-[20:28:47] [Server thread/INFO]: sisaneytor has made the advancement [Acquire Hardware]
-[20:29:02] [Server thread/INFO]: sisaneytor has made the advancement [Isn't It Iron Pick]
-[20:33:12] [Server thread/INFO]: Pastichooo_ has made the advancement [A Seedy Place]
-[20:33:44] [Server thread/INFO]: sisaneytor has made the advancement [Diamonds!]
-[20:36:10] [Server thread/INFO]: [nicockla: Set the time to 1000]
-[20:36:15] [Server thread/INFO]: jhacops has made the advancement [Stone Age]
-[20:36:47] [Server thread/INFO]: sisaneytor has made the advancement [Suit Up]
-[20:43:35] [Server thread/INFO]: jhacops has made the advancement [Best Friends Forever]
-[20:44:45] [Server thread/WARN]: Donkey (vehicle of jhacops) moved wrongly! 0.32698217076676883
-[20:44:45] [Server thread/WARN]: Donkey (vehicle of jhacops) moved wrongly! 0.6784098210964657
-[20:44:45] [Server thread/WARN]: Donkey (vehicle of jhacops) moved wrongly! 1.030195035266388
-[20:44:45] [Server thread/WARN]: Donkey (vehicle of jhacops) moved wrongly! 1.3806959801941048
-[20:44:45] [Server thread/WARN]: Donkey (vehicle of jhacops) moved wrongly! 1.729761125910045
-[20:44:57] [Server thread/INFO]: Pastichooo_ lost connection: Disconnected
-[20:44:57] [Server thread/INFO]: Pastichooo_ left the game
-[20:45:27] [Server thread/INFO]: sisaneytor has made the advancement [Not Today, Thank You]
-[20:45:35] [Server thread/INFO]: sisaneytor has made the advancement [Monster Hunter]
-[20:49:09] [Server thread/INFO]: sisaneytor was doomed to fall by Creeper
-[20:49:17] [Server thread/INFO]: Palmarsisa[/127.129.74.113:48193] logged in with entity id 10460 at (-490.5338401332278, 67.0, -2477.2590778232466)
-[20:49:17] [Server thread/INFO]: Palmarsisa joined the game
-[20:49:19] [Server thread/INFO]: [Not Secure] <nicockla> AKJSKJAKSJAKSJAKJSKAJSKAJSKJAKSAJKAJSKAJSK
-[20:49:27] [Server thread/INFO]: [Not Secure] <Palmarsisa> hola bro
-[20:49:30] [Server thread/INFO]: [Not Secure] <nicockla> mrc
-[20:49:38] [Server thread/INFO]: [Not Secure] <nicockla> el freddy se acaba de morir
-[20:49:42] [Server thread/INFO]: [Not Secure] <Palmarsisa> gracias a dios
-[20:49:45] [Server thread/INFO]: [Not Secure] <nicockla> con 16 diamantes
-[20:49:51] [Server thread/INFO]: [Not Secure] <Palmarsisa> mi mama
-[20:49:53] [Server thread/INFO]: [Not Secure] <Palmarsisa> me anda mentando la madre
-[20:49:59] [Server thread/INFO]: [Not Secure] <jhacops> :,)
-[20:49:59] [Server thread/INFO]: [Not Secure] <Palmarsisa> pq en el piso de lba;o hay dos boxers tiraos
-[20:50:14] [Server thread/INFO]: [Not Secure] <Palmarsisa> franklow
-[20:50:16] [Server thread/INFO]: [Not Secure] <Palmarsisa> cociname ahi
-[20:51:30] [Server thread/INFO]: jhacops has made the advancement [Sweet Dreams]
-[20:51:39] [Server thread/INFO]: [nicockla: Set the time to 1000]
-[20:52:00] [Server thread/INFO]: [Palmarsisa: Gave 1 [Water Bucket] to sisaneytor]
-[20:52:39] [Server thread/INFO]: [Palmarsisa: Teleported Palmarsisa to sisaneytor]
-[20:52:55] [Server thread/INFO]: jhacops has made the advancement [What a Deal!]
-[20:53:48] [Server thread/INFO]: [Palmarsisa: Teleported sisaneytor to Palmarsisa]
-[20:54:28] [Server thread/INFO]: [Palmarsisa: Set own game mode to Creative Mode]
-[20:54:33] [Server thread/INFO]: [Palmarsisa: Teleported Palmarsisa to sisaneytor]
-[20:54:33] [Server thread/INFO]: sisaneytor was slain by Zombie
-[20:54:39] [Server thread/INFO]: [Palmarsisa: Teleported sisaneytor to Palmarsisa]
-[20:54:59] [Server thread/INFO]: [Palmarsisa: Set own game mode to Spectator Mode]
-[20:55:20] [Server thread/INFO]: sisaneytor was blown up by Creeper
-[20:55:21] [Server thread/INFO]: [Palmarsisa: Teleported sisaneytor to Palmarsisa]
-[20:55:24] [Server thread/INFO]: [Palmarsisa: Teleported sisaneytor to Palmarsisa]
-[20:56:39] [Server thread/INFO]: sisaneytor tried to swim in lava
-[20:56:39] [Server thread/INFO]: [Palmarsisa: Set own game mode to Survival Mode]
-[20:57:00] [Server thread/INFO]: [Palmarsisa: Gave 15 [Diamond] to sisaneytor]
-[20:57:13] [Server thread/INFO]: jhacops has made the advancement [Cover Me with Diamonds]
-[20:57:16] [Server thread/INFO]: [Palmarsisa: Gave 30 [Iron Bars] to sisaneytor]
-[20:57:23] [Server thread/INFO]: [Palmarsisa: Gave 1 [Diamond Pickaxe] to sisaneytor]
-[20:57:42] [Server thread/INFO]: [Palmarsisa: Gave 1 [Diamond Pickaxe] to Palmarsisa]
-[20:58:49] [Server thread/INFO]: [Palmarsisa: Gave 30 [Iron Ingot] to sisaneytor]
-[20:59:02] [Server thread/INFO]: jhacops has made the advancement [Take Aim]
-[20:59:13] [Server thread/INFO]: [Palmarsisa: Gave 30 [Torch] to Palmarsisa]
-[20:59:32] [Server thread/INFO]: [Palmarsisa: Set own game mode to Creative Mode]
-[20:59:51] [Server thread/INFO]: sisaneytor has made the advancement [Cover Me with Diamonds]
-[21:00:42] [Server thread/INFO]: [Palmarsisa: Teleported Palmarsisa to sisaneytor]
-[21:01:01] [Server thread/INFO]: Palmarsisa has made the advancement [Cover Me with Diamonds]
-[21:01:22] [Server thread/INFO]: sisaneytor was shot by jhacops
-[21:01:28] [Server thread/INFO]: [Palmarsisa: Teleported sisaneytor to Palmarsisa]
-[21:01:32] [Server thread/INFO]: [Palmarsisa: Teleported sisaneytor to Palmarsisa]
-[21:01:34] [Server thread/INFO]: [Palmarsisa: Teleported sisaneytor to Palmarsisa]
-[21:01:34] [Server thread/INFO]: [Palmarsisa: Teleported sisaneytor to Palmarsisa]
-[21:01:35] [Server thread/INFO]: [Palmarsisa: Teleported sisaneytor to Palmarsisa]
-[21:01:35] [Server thread/INFO]: [Palmarsisa: Teleported sisaneytor to Palmarsisa]
-[21:01:35] [Server thread/INFO]: [Palmarsisa: Teleported sisaneytor to Palmarsisa]
-[21:01:36] [Server thread/INFO]: [Palmarsisa: Teleported sisaneytor to Palmarsisa]
-[21:01:36] [Server thread/INFO]: [Palmarsisa: Teleported sisaneytor to Palmarsisa]
-[21:01:36] [Server thread/INFO]: [Palmarsisa: Teleported sisaneytor to Palmarsisa]
-[21:01:37] [Server thread/INFO]: [Palmarsisa: Teleported sisaneytor to Palmarsisa]
-[21:01:37] [Server thread/INFO]: [Palmarsisa: Teleported sisaneytor to Palmarsisa]
-[21:01:37] [Server thread/INFO]: [Palmarsisa: Teleported sisaneytor to Palmarsisa]
-[21:01:38] [Server thread/INFO]: [Palmarsisa: Teleported sisaneytor to Palmarsisa]
-[21:01:38] [Server thread/INFO]: [Palmarsisa: Teleported sisaneytor to Palmarsisa]
-[21:01:39] [Server thread/INFO]: [Palmarsisa: Teleported sisaneytor to Palmarsisa]
-[21:01:41] [Server thread/INFO]: [Palmarsisa: Teleported sisaneytor to Palmarsisa]
-[21:01:44] [Server thread/INFO]: [Palmarsisa: Teleported sisaneytor to Palmarsisa]
-[21:01:46] [Server thread/INFO]: [Palmarsisa: Teleported sisaneytor to Palmarsisa]
-[21:02:01] [Server thread/INFO]: [Palmarsisa: Teleported sisaneytor to Palmarsisa]
-[21:02:05] [Server thread/INFO]: [Palmarsisa: Teleported sisaneytor to Palmarsisa]
-[21:02:07] [Server thread/INFO]: [Palmarsisa: Teleported sisaneytor to Palmarsisa]
-[21:02:10] [Server thread/INFO]: [Palmarsisa: Teleported sisaneytor to Palmarsisa]
-[21:02:14] [Server thread/INFO]: [Palmarsisa: Teleported sisaneytor to Palmarsisa]
-[21:02:20] [Server thread/INFO]: [Palmarsisa: Teleported sisaneytor to Palmarsisa]
-[21:02:26] [Server thread/INFO]: [Palmarsisa: Teleported sisaneytor to Palmarsisa]
-[21:02:32] [Server thread/INFO]: [Palmarsisa: Set own game mode to Survival Mode]
-[21:02:41] [Server thread/INFO]: [nicockla: Teleported sisaneytor to nicockla]
-[21:02:55] [Server thread/INFO]: [nicockla: Teleported sisaneytor to nicockla]
-[21:03:03] [Server thread/INFO]: [nicockla: Teleported sisaneytor to nicockla]
-[21:03:13] [Server thread/INFO]: [nicockla: Teleported sisaneytor to nicockla]
-[21:03:18] [Server thread/INFO]: [Palmarsisa: Made nicockla no longer a server operator]
-[21:03:23] [Server thread/INFO]: [Palmarsisa: Made Palmarsisa no longer a server operator]
-[21:05:15] [Server thread/INFO]: jhacops has made the advancement [Not Today, Thank You]
-[21:11:27] [Server thread/INFO]: jhacops has made the advancement [Diamonds!]
-[21:12:37] [Server thread/INFO]: Palmarsisa was blown up by Creeper
-[21:12:48] [Server thread/INFO]: Made Palmarsisa a server operator
-[21:12:53] [Server thread/INFO]: [Palmarsisa: Teleported Palmarsisa to jhacops]
-[21:14:30] [Server thread/INFO]: [Palmarsisa: Teleported Palmarsisa to sisaneytor]
-[21:15:33] [Server thread/INFO]: Palmarsisa has made the advancement [Take Aim]
-[21:16:51] [Server thread/INFO]: [Palmarsisa: Set own game mode to Spectator Mode]
-[21:17:34] [Server thread/INFO]: [Palmarsisa: Set own game mode to Creative Mode]
-[21:18:42] [Server thread/INFO]: [Palmarsisa: Set own game mode to Survival Mode]
-[21:22:34] [Server thread/INFO]: [Palmarsisa: Teleported Palmarsisa to sisaneytor]
-[21:23:09] [Server thread/INFO]: Pastichooo_[/127.125.21.66:39577] logged in with entity id 19380 at (-516.0012194858443, 68.0, -2448.1220219990164)
-[21:23:09] [Server thread/INFO]: Pastichooo_ joined the game
-[21:23:24] [Server thread/INFO]: [Not Secure] <Pastichooo_> 7give @p diamonds 64
-[21:24:15] [Server thread/INFO]: Pastichooo_ has made the advancement [Monster Hunter]
-[21:24:45] [Server thread/INFO]: sisaneytor has made the advancement [Ice Bucket Challenge]
-[21:26:18] [Server thread/INFO]: [Palmarsisa: Teleported sisaneytor to Palmarsisa]
-[21:26:19] [Server thread/INFO]: Pastichooo_ has made the advancement [Stone Age]
-[21:26:27] [Server thread/INFO]: Pastichooo_ has made the advancement [Getting an Upgrade]
-[21:26:58] [Server thread/INFO]: nicockla lost connection: Disconnected
-[21:26:58] [Server thread/INFO]: nicockla left the game
-[21:28:48] [Server thread/INFO]: Pastichooo_ has made the advancement [Acquire Hardware]
-[21:29:14] [Server thread/INFO]: sisaneytor fell from a high place
-[21:29:16] [Server thread/INFO]: Pastichooo_ has made the advancement [Isn't It Iron Pick]
-[21:29:31] [Server thread/INFO]: [Palmarsisa: Teleported sisaneytor to Palmarsisa]
-[21:29:35] [Server thread/INFO]: sisaneytor was doomed to fall by Palmarsisa
-[21:29:41] [Server thread/INFO]: [Palmarsisa: Teleported sisaneytor to jhacops]
-[21:30:28] [Server thread/INFO]: [Palmarsisa: Teleported Palmarsisa to jhacops]
-[21:31:07] [Server thread/INFO]: Pastichooo_ has made the advancement [Suit Up]
-[21:31:07] [Server thread/INFO]: sisaneytor has made the advancement [Take Aim]
-[21:33:37] [Server thread/INFO]: Pastichooo_ has made the advancement [Diamonds!]
-[21:34:20] [Server thread/INFO]: [Palmarsisa: Teleported Palmarsisa to sisaneytor]
-[21:34:25] [Server thread/INFO]: [Palmarsisa: Teleported Palmarsisa to Pastichooo_]
-[21:37:10] [Server thread/INFO]: [Palmarsisa: Teleported Palmarsisa to -459.500000, 70.000000, -2549.500000]
-[21:38:21] [Server thread/INFO]: Pastichooo_ has made the advancement [Cover Me with Diamonds]
-[21:40:27] [Server thread/INFO]: [Not Secure] <Palmarsisa> 7tp coordenadas aleatorias Pastichooo_ sisaneitor peti yes aleatorio literal no psd
-[21:40:37] [Server thread/INFO]: [Palmarsisa: Teleported Pastichooo_ to Palmarsisa]
-[21:40:40] [Server thread/INFO]: [Palmarsisa: Teleported sisaneytor to Palmarsisa]
-[21:41:57] [Server thread/INFO]: [Not Secure] <jhacops> x490, y66, z-2482
-[21:42:05] [Server thread/INFO]: [Palmarsisa: Teleported jhacops to 490.500000, 66.000000, -2481.500000]
-[21:42:06] [Server thread/WARN]: Palmarsisa moved too quickly! -0.3911103858450815,0.7531999805212024,10.293266658683478
-[21:42:53] [Server thread/INFO]: sisaneytor has made the advancement [Who is Cutting Onions?]
-[21:43:52] [Server thread/INFO]: [Palmarsisa: Teleported jhacops to Palmarsisa]
-[21:45:50] [Server thread/INFO]: sisaneytor has made the advancement [We Need to Go Deeper]
-[21:45:52] [Server thread/WARN]: Palmarsisa moved too quickly! 4.514989092635915,1.0244240882136921,8.99453740779154
-[21:45:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3508ms or 70 ticks behind
-[21:46:14] [Server thread/INFO]: Palmarsisa has made the advancement [We Need to Go Deeper]
-[21:46:33] [Server thread/INFO]: jhacops has made the advancement [We Need to Go Deeper]
-[21:47:59] [Server thread/INFO]: sisaneytor has made the advancement [A Terrible Fortress]
-[21:48:00] [Server thread/INFO]: Palmarsisa has made the advancement [A Terrible Fortress]
-[21:48:12] [Server thread/INFO]: jhacops has made the advancement [A Terrible Fortress]
-[21:50:05] [Server thread/INFO]: Palmarsisa has made the advancement [Into Fire]
-[21:50:16] [Server thread/INFO]: [Palmarsisa: Teleported sisaneytor to Palmarsisa]
-[21:50:54] [Server thread/INFO]: jhacops lost connection: Disconnected
-[21:50:54] [Server thread/INFO]: jhacops left the game
-[21:51:04] [Server thread/INFO]: [Not Secure] <Pastichooo_> palamrie
-[21:51:06] [Server thread/INFO]: [Not Secure] <Pastichooo_> palmierda
-[21:51:26] [Server thread/INFO]: jhacops[/127.73.23.162:45215] logged in with entity id 27986 at (-190.30000001192093, 27.0, -388.25264743413516)
-[21:51:26] [Server thread/INFO]: jhacops joined the game
-[21:51:26] [Server thread/INFO]: [Palmarsisa: Teleported jhacops to Palmarsisa]
-[21:51:27] [Server thread/INFO]: [Palmarsisa: Teleported jhacops to Palmarsisa]
-[21:51:43] [Server thread/INFO]: Pastichooo_ has made the advancement [We Need to Go Deeper]
-[21:51:43] [Server thread/INFO]: [Palmarsisa: Teleported Pastichooo_ to Palmarsisa]
-[21:51:44] [Server thread/INFO]: Pastichooo_ has made the advancement [A Terrible Fortress]
-[21:52:22] [Server thread/INFO]: [Palmarsisa: Teleported Palmarsisa to Pastichooo_]
-[21:52:22] [Server thread/INFO]: Palmarsisa fell from a high place
-[21:52:25] [Server thread/INFO]: [Palmarsisa: Teleported Palmarsisa to Pastichooo_]
-[21:52:34] [Server thread/INFO]: [Palmarsisa: Teleported Palmarsisa to Pastichooo_]
-[21:52:38] [Server thread/INFO]: [Palmarsisa: Teleported Palmarsisa to Pastichooo_]
-[21:52:56] [Server thread/INFO]: [Palmarsisa: Teleported Palmarsisa to Pastichooo_]
-[21:54:38] [Server thread/INFO]: [Palmarsisa: Teleported Palmarsisa to Pastichooo_]
-[21:55:18] [Server thread/INFO]: sisaneytor has made the advancement [Into Fire]
-[21:56:22] [Server thread/INFO]: Pastichooo_ has made the advancement [Not Today, Thank You]
-[21:56:24] [Server thread/INFO]: Pastichooo_ has made the advancement [Into Fire]
-[21:56:34] [Server thread/INFO]: jhacops has made the advancement [Acquire Hardware]
-[21:57:56] [Server thread/INFO]: Palmarsisa was burned to a crisp while fighting Blaze
-[21:57:59] [Server thread/INFO]: [Palmarsisa: Teleported Palmarsisa to Palmarsisa]
-[21:58:04] [Server thread/INFO]: [Palmarsisa: Teleported Palmarsisa to sisaneytor]
-[21:58:26] [Server thread/INFO]: [Palmarsisa: Teleported sisaneytor to Palmarsisa]
-[21:58:38] [Server thread/INFO]: jhacops has made the advancement [Into Fire]
-[21:58:59] [Server thread/INFO]: [Palmarsisa: Teleported Palmarsisa to jhacops]
-[21:59:26] [Server thread/INFO]: [Not Secure] <Pastichooo_> tp fredi
-[21:59:31] [Server thread/INFO]: [Not Secure] <Palmarsisa> tepe aqui
-[21:59:35] [Server thread/INFO]: [Not Secure] <Pastichooo_> tp alla
-[21:59:43] [Server thread/INFO]: [Not Secure] <sisaneytor> TP NOSOTROS
-[21:59:53] [Server thread/INFO]: [Not Secure] <Pastichooo_> tp vosotros
-[22:00:48] [Server thread/INFO]: Pastichooo_ was slain by Zombified Piglin
-[22:00:55] [Server thread/INFO]: [Palmarsisa: Teleported Pastichooo_ to Palmarsisa]
-[22:01:51] [Server thread/INFO]: [Palmarsisa: Teleported Palmarsisa to sisaneytor]
-[22:03:07] [Server thread/INFO]: [Palmarsisa: Teleported Palmarsisa to sisaneytor]
-[22:03:13] [Server thread/INFO]: Palmarsisa was slain by sisaneytor
-[22:03:16] [Server thread/INFO]: nicockla[/127.173.120.242:51639] logged in with entity id 30530 at (-499.4456062052274, 68.0, -2490.4764291355277)
-[22:03:16] [Server thread/INFO]: nicockla joined the game
-[22:03:29] [Server thread/INFO]: [Palmarsisa: Teleported 5 entities to Palmarsisa]
-[22:04:50] [Server thread/INFO]: sisaneytor lost connection: Disconnected
-[22:04:50] [Server thread/INFO]: sisaneytor left the game
-[22:05:13] [Server thread/INFO]: sisaneytor[/127.225.238.10:35107] logged in with entity id 30995 at (-491.77469140615307, 67.0, -2469.8280371022265)
-[22:05:13] [Server thread/INFO]: sisaneytor joined the game
-[22:05:40] [Server thread/INFO]: sisaneytor was slain by jhacops
-[22:05:42] [Server thread/INFO]: Palmarsisa has made the advancement [Who is Cutting Onions?]
-[22:05:46] [Server thread/INFO]: Palmarsisa has made the advancement [Ice Bucket Challenge]
-[22:05:52] [Server thread/INFO]: sisaneytor lost connection: Disconnected
-[22:05:52] [Server thread/INFO]: sisaneytor left the game
-[22:06:16] [Server thread/INFO]: jhacops lost connection: Disconnected
-[22:06:16] [Server thread/INFO]: jhacops left the game
-[22:07:07] [Server thread/INFO]: sisaneytor[/127.225.238.10:43473] logged in with entity id 31351 at (-494.1987376711012, 70.5, -2480.894359660071)
-[22:07:07] [Server thread/INFO]: sisaneytor joined the game
-[22:07:37] [Server thread/INFO]: Palmarsisa was slain by sisaneytor
-[22:07:38] [Server thread/INFO]: jhacops[/127.73.23.162:43007] logged in with entity id 31479 at (-494.2653140313328, 67.5625, -2465.5)
-[22:07:38] [Server thread/INFO]: jhacops joined the game
-[22:07:42] [Server thread/INFO]: [Palmarsisa: Teleported Palmarsisa to nicockla]
-[22:07:57] [Server thread/INFO]: Palmarsisa was slain by nicockla
-[22:08:07] [Server thread/INFO]: [Palmarsisa: Gave 1 [Spider Eye] to nicockla]
-[22:08:26] [Server thread/INFO]: Palmarsisa was slain by sisaneytor
-[22:08:28] [Server thread/INFO]: [Palmarsisa: Gave 1 [Spider Eye] to nicockla]
-[22:08:30] [Server thread/INFO]: [Palmarsisa: Teleported Palmarsisa to nicockla]
-[22:08:31] [Server thread/INFO]: sisaneytor lost connection: Disconnected
-[22:08:31] [Server thread/INFO]: sisaneytor left the game
-[22:08:41] [Server thread/INFO]: nicockla lost connection: Disconnected
-[22:08:41] [Server thread/INFO]: nicockla left the game
-[22:08:46] [Server thread/INFO]: nicockla[/127.173.120.242:56643] logged in with entity id 31689 at (-495.0499164106421, 70.5, -2469.4776785272575)
-[22:08:46] [Server thread/INFO]: nicockla joined the game
-[22:08:53] [Server thread/INFO]: sisaneytor[/127.225.238.10:56333] logged in with entity id 31701 at (-498.2190363402411, 70.5, -2474.605658149656)
-[22:08:53] [Server thread/INFO]: sisaneytor joined the game
-[22:09:39] [Server thread/INFO]: nicockla has made the advancement [We Need to Go Deeper]
-[22:09:40] [Server thread/INFO]: [Palmarsisa: Teleported Palmarsisa to sisaneytor]
-[22:09:48] [Server thread/INFO]: [Palmarsisa: Teleported Palmarsisa to sisaneytor]
-[22:09:48] [Server thread/INFO]: Palmarsisa was doomed to fall by sisaneytor
-[22:09:51] [Server thread/INFO]: [Palmarsisa: Teleported Palmarsisa to sisaneytor]
-[22:09:56] [Server thread/INFO]: Palmarsisa was slain by sisaneytor
-[22:09:56] [Server thread/INFO]: Pastichooo_ was slain by jhacops
-[22:09:58] [Server thread/INFO]: [Palmarsisa: Teleported Palmarsisa to sisaneytor]
-[22:10:26] [Server thread/INFO]: nicockla lost connection: Disconnected
-[22:10:26] [Server thread/INFO]: nicockla left the game
-[22:10:47] [Server thread/INFO]: Pastichooo_ lost connection: Disconnected
-[22:10:47] [Server thread/INFO]: Pastichooo_ left the game
-[22:11:07] [Server thread/INFO]: sisaneytor lost connection: Disconnected
-[22:11:07] [Server thread/INFO]: sisaneytor left the game
-[22:11:18] [Server thread/INFO]: nicockla[/127.173.120.242:55049] logged in with entity id 32741 at (-62.69999998807907, 58.0, -295.8912698686411)
-[22:11:18] [Server thread/INFO]: nicockla joined the game
-[22:11:18] [Server thread/INFO]: sisaneytor[/127.225.238.10:57159] logged in with entity id 32774 at (-62.52517464390677, 71.0, -310.1996153018284)
-[22:11:18] [Server thread/INFO]: sisaneytor joined the game
-[22:11:19] [Server thread/INFO]: [Palmarsisa: Teleported sisaneytor to Palmarsisa]
-[22:11:19] [Server thread/INFO]: [Palmarsisa: Teleported sisaneytor to Palmarsisa]
-[22:11:34] [Server thread/INFO]: Palmarsisa was slain by Wither Skeleton
-[22:11:36] [Server thread/INFO]: sisaneytor withered away while fighting Wither Skeleton
-[22:11:36] [Server thread/INFO]: [Palmarsisa: Teleported sisaneytor to Palmarsisa]
-[22:12:15] [Server thread/INFO]: jhacops lost connection: Disconnected
-[22:12:15] [Server thread/INFO]: jhacops left the game
-[22:12:54] [Server thread/INFO]: Palmarsisa was slain by Wither Skeleton
-[22:12:56] [Server thread/INFO]: [Palmarsisa: Teleported sisaneytor to Palmarsisa]
-[22:13:29] [Server thread/INFO]: Palmarsisa lost connection: Disconnected
-[22:13:29] [Server thread/INFO]: Palmarsisa left the game
-[22:13:33] [Server thread/INFO]: sisaneytor lost connection: Disconnected
-[22:13:33] [Server thread/INFO]: sisaneytor left the game
-[22:13:57] [Server thread/INFO]: nicockla lost connection: Disconnected
-[22:13:57] [Server thread/INFO]: nicockla left the game
+[03:28:56] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:28:58] [ServerMain/INFO]: Loaded 1290 recipes
+[03:28:58] [ServerMain/INFO]: Loaded 1399 advancements
+[03:28:58] [Server thread/INFO]: Starting minecraft server version 1.21
+[03:28:58] [Server thread/INFO]: Loading properties
+[03:28:58] [Server thread/INFO]: Default game type: SURVIVAL
+[03:28:58] [Server thread/INFO]: Generating keypair
+[03:28:58] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:28:58] [Server thread/INFO]: Using epoll channel type
+[03:28:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:28:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:28:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:28:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:28:58] [Server thread/INFO]: Preparing level "world"
+[03:29:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:29:01] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[03:29:02] [Server thread/INFO]: Time elapsed: 480 ms
+[03:29:02] [Server thread/INFO]: Done (3.060s)! For help, type "help"
+[03:29:07] [Server thread/INFO]: IamDJ_Master[/127.4.244.245:55703] logged in with entity id 38 at (-489.3968778794202, 68.0, -2495.699999988079)
+[03:29:07] [Server thread/INFO]: IamDJ_Master joined the game
+[03:29:14] [Server thread/INFO]: nicockla[/127.173.120.242:54185] logged in with entity id 180 at (-501.2229455825789, 70.0, -2522.9938041579953)
+[03:29:14] [Server thread/INFO]: nicockla joined the game
+[03:30:28] [Server thread/INFO]: Palmarsisa[/127.165.78.15:37289] logged in with entity id 391 at (-525.1349904466273, 69.0, -2445.3904415979137)
+[03:30:28] [Server thread/INFO]: Palmarsisa joined the game
+[03:33:12] [Server thread/INFO]: juandamio[/127.204.192.146:59833] logged in with entity id 1000 at (1065.7156000208809, 67.0, -2104.6325964645835)
+[03:33:12] [Server thread/INFO]: juandamio joined the game
+[03:37:46] [Server thread/INFO]: IamDJ_Master has made the advancement [Cover Me with Diamonds]
+[03:37:55] [Server thread/INFO]: [Palmarsisa: Gave 1 [Iron Axe] to Palmarsisa]
+[03:37:55] [Server thread/WARN]: Dark Oak Boat (vehicle of juandamio) moved too quickly! -9.321789885158296,0.0,-4.156211801143854
+[03:37:55] [Server thread/WARN]: Dark Oak Boat (vehicle of juandamio) moved too quickly! -9.705574809172049,0.0,-4.258408767499986
+[03:37:55] [Server thread/WARN]: Dark Oak Boat (vehicle of juandamio) moved too quickly! -10.090287078772462,0.0,-4.357805631676001
+[03:37:55] [Server thread/WARN]: Dark Oak Boat (vehicle of juandamio) moved too quickly! -10.475853032865189,0.0,-4.4545806322848875
+[03:37:55] [Server thread/WARN]: Dark Oak Boat (vehicle of juandamio) moved too quickly! -10.862204036984394,0.0,-4.5489054512154325
+[03:39:53] [Server thread/INFO]: [IamDJ_Master: Set the time to 1000]
+[03:42:47] [Server thread/INFO]: [Not Secure] <Palmarsisa> 822000
+[03:43:20] [Server thread/INFO]: [Palmarsisa: Gave 1 [Iron Axe] to Palmarsisa]
+[03:44:18] [Server thread/INFO]: [Palmarsisa: Gave 512 [Spruce Log] to Palmarsisa]
+[03:48:24] [Server thread/INFO]: [Not Secure] <IamDJ_Master> lure
