@@ -853,6 +853,7 @@
       "rotten_flesh": "2025-05-24 02:53:39 +0000",
       "baked_potato": "2025-05-28 04:47:04 +0000",
       "cooked_salmon": "2025-05-28 04:06:41 +0000",
+      "golden_carrot": "2025-05-28 04:56:55 +0000",
       "carrot": "2025-05-28 03:53:50 +0000"
     },
     "done": false
@@ -1589,6 +1590,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-05-28 04:54:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-05-28 03:55:37 +0000"
@@ -1670,6 +1677,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-28 04:05:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-05-28 04:53:20 +0000"
     },
     "done": true
   },
@@ -1817,6 +1830,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-05-28 04:54:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/mace": {
     "criteria": {
       "has_breeze_rod": "2025-05-28 04:13:45 +0000"
@@ -1898,6 +1917,12 @@
   "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
       "has_brick": "2025-05-28 04:22:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-05-28 04:53:20 +0000"
     },
     "done": true
   },
