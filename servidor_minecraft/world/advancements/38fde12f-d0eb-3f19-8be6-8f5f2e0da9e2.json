@@ -841,7 +841,8 @@
       "apple": "2025-05-24 04:55:39 +0000",
       "bread": "2025-05-24 02:37:46 +0000",
       "cooked_chicken": "2025-05-24 05:00:25 +0000",
-      "rotten_flesh": "2025-05-24 02:53:39 +0000"
+      "rotten_flesh": "2025-05-24 02:53:39 +0000",
+      "carrot": "2025-05-28 03:53:50 +0000"
     },
     "done": false
   },
@@ -1367,9 +1368,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-05-28 03:55:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2025-05-28 03:50:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-05-28 03:55:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-05-28 03:55:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-05-28 03:50:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_leggings": "2025-05-28 03:37:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-05-28 03:52:41 +0000"
     },
     "done": true
   },
