@@ -2534,6 +2534,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-28 05:38:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_oxidized_copper_grate": {
     "criteria": {
       "has_waxed_oxidized_copper": "2025-05-28 05:14:46 +0000"
