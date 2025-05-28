@@ -19,6 +19,7 @@
       "minecraft:dripstone_caves": "2025-05-24 03:58:41 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-24 04:36:21 +0000",
       "minecraft:desert": "2025-05-24 03:13:05 +0000",
+      "minecraft:deep_dark": "2025-05-28 04:28:37 +0000",
       "minecraft:ocean": "2025-05-24 04:42:05 +0000",
       "minecraft:jungle": "2025-05-24 04:49:40 +0000",
       "minecraft:cherry_grove": "2025-05-28 03:50:40 +0000",
@@ -1658,6 +1659,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-05-28 04:26:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-05-28 04:26:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2025-05-28 03:58:34 +0000"
@@ -1679,6 +1692,12 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-05-28 03:58:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-05-28 04:26:16 +0000"
     },
     "done": true
   },
