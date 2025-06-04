@@ -7,9 +7,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:flower_forest": "2025-06-04 03:44:13 +0000",
       "minecraft:beach": "2025-06-04 02:48:39 +0000",
       "minecraft:river": "2025-06-04 03:01:08 +0000",
-      "minecraft:swamp": "2025-06-04 02:46:32 +0000"
+      "minecraft:swamp": "2025-06-04 02:46:32 +0000",
+      "minecraft:windswept_hills": "2025-06-04 03:45:37 +0000"
     },
     "done": false
   },
@@ -376,7 +378,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "rotten_flesh": "2025-06-04 03:12:00 +0000",
-      "cooked_mutton": "2025-06-04 03:00:17 +0000"
+      "cooked_mutton": "2025-06-04 03:00:17 +0000",
+      "cooked_beef": "2025-06-04 03:47:43 +0000"
     },
     "done": false
   },
@@ -967,6 +970,18 @@
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-06-04 03:37:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-06-04 03:49:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-06-04 03:49:31 +0000"
     },
     "done": true
   },

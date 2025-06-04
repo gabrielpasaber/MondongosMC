@@ -1143,9 +1143,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/detector_rail": {
+  "minecraft:recipes/misc/bone_meal": {
     "criteria": {
-      "has_rail": "2025-06-04 03:41:42 +0000"
+      "has_bone": "2025-06-04 03:28:01 +0000"
     },
     "done": true
   },
@@ -1167,9 +1167,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bone_meal": {
+  "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
-      "has_bone": "2025-06-04 03:28:01 +0000"
+      "has_rail": "2025-06-04 03:41:42 +0000"
     },
     "done": true
   },
