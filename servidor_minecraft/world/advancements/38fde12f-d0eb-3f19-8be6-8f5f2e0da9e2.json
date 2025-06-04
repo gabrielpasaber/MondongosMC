@@ -430,6 +430,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-04 03:04:11 +0000",
+      "minecraft:phantom": "2025-06-04 05:11:56 +0000",
       "minecraft:spider": "2025-06-04 03:38:52 +0000",
       "minecraft:zombie": "2025-06-04 03:06:48 +0000"
     },
@@ -1272,6 +1273,12 @@
   "minecraft:recipes/food/suspicious_stew_from_orange_tulip": {
     "criteria": {
       "has_orange_tulip": "2025-06-04 04:00:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-04 05:13:14 +0000"
     },
     "done": true
   },
