@@ -1,0 +1,48 @@
+[02:46:10] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:46:11] [ServerMain/INFO]: No existing world data, creating new world
+[02:46:11] [ServerMain/INFO]: Loaded 1370 recipes
+[02:46:11] [ServerMain/INFO]: Loaded 1481 advancements
+[02:46:11] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[02:46:11] [Server thread/INFO]: Loading properties
+[02:46:11] [Server thread/INFO]: Default game type: SURVIVAL
+[02:46:11] [Server thread/INFO]: Generating keypair
+[02:46:12] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:46:12] [Server thread/INFO]: Using epoll channel type
+[02:46:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:46:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:46:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:46:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:46:12] [Server thread/INFO]: Preparing level "world"
+[02:46:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:46:17] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[02:46:18] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[02:46:18] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[02:46:19] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[02:46:19] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[02:46:20] [Worker-Main-1/INFO]: Preparing spawn area: 18%
+[02:46:20] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[02:46:21] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[02:46:21] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[02:46:22] [Server thread/INFO]: Time elapsed: 4358 ms
+[02:46:22] [Server thread/INFO]: Done (9.992s)! For help, type "help"
+[02:46:22] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[02:46:22] [Server thread/INFO]: home/codespace/.python/current/bin/python3 /workspaces/MondongosMC/msx.py<--[HERE]
+[02:46:31] [Server thread/INFO]: IamDJ_Master[/127.4.244.245:45405] logged in with entity id 29 at (14.5, 63.0, 8.5)
+[02:46:31] [Server thread/INFO]: IamDJ_Master joined the game
+[02:46:36] [Server thread/INFO]: sisaneytor[/127.225.238.10:58279] logged in with entity id 128 at (8.5, 69.0, 1.5)
+[02:46:36] [Server thread/INFO]: sisaneytor joined the game
+[02:47:24] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=20, y=64, z=1} ji{x=20, y=62, z=1}
+[02:47:58] [Server thread/INFO]: sisaneytor has made the advancement [Stone Age]
+[02:48:28] [Server thread/INFO]: sisaneytor has made the advancement [Getting an Upgrade]
+[02:50:56] [Server thread/INFO]: The difficulty has been set to Hard
+[02:51:26] [Server thread/INFO]: Palmarsisa[/127.140.93.39:51117] logged in with entity id 1344 at (12.5, 69.0, -4.5)
+[02:51:26] [Server thread/INFO]: Palmarsisa joined the game
+[02:53:25] [Server thread/INFO]: Palmarsisa has made the advancement [Stone Age]
+[02:54:12] [Server thread/INFO]: Disrupturation[/127.157.55.118:38085] logged in with entity id 2183 at (14.5, 63.0, -8.5)
+[02:54:12] [Server thread/INFO]: Disrupturation joined the game
+[02:55:30] [Server thread/INFO]: Made Palmarsisa a server operator
+[02:55:46] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=8, y=64, z=12} ji{x=8, y=65, z=13}
+[02:55:50] [Server thread/INFO]: Palmarsisa has made the advancement [Getting an Upgrade]
+[02:55:59] [Server thread/INFO]: Disrupturation has made the advancement [Stone Age]
+[02:56:00] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=8, y=64, z=12} ji{x=8, y=64, z=14}
+[02:56:00] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=8, y=64, z=12} ji{x=9, y=64, z=13}
