@@ -1822,6 +1822,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-06-05 02:14:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "cod": "2025-06-05 01:58:20 +0000"
