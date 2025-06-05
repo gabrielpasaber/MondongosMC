@@ -432,7 +432,8 @@
       "minecraft:skeleton": "2025-06-04 03:04:11 +0000",
       "minecraft:phantom": "2025-06-04 05:11:56 +0000",
       "minecraft:spider": "2025-06-04 03:38:52 +0000",
-      "minecraft:zombie": "2025-06-04 03:06:48 +0000"
+      "minecraft:zombie": "2025-06-04 03:06:48 +0000",
+      "minecraft:drowned": "2025-06-05 00:30:10 +0000"
     },
     "done": false
   },
@@ -1453,6 +1454,18 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-06-04 05:13:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-06-05 00:32:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-06-05 00:32:17 +0000"
     },
     "done": true
   },
