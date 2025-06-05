@@ -11,6 +11,7 @@
       "minecraft:cold_ocean": "2025-06-04 04:10:07 +0000",
       "minecraft:flower_forest": "2025-06-04 02:58:03 +0000",
       "minecraft:beach": "2025-06-04 02:52:05 +0000",
+      "minecraft:forest": "2025-06-05 00:52:29 +0000",
       "minecraft:taiga": "2025-06-04 04:15:52 +0000",
       "minecraft:river": "2025-06-04 02:53:15 +0000",
       "minecraft:swamp": "2025-06-04 02:46:37 +0000",
@@ -510,6 +511,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-06-04 04:30:44 +0000",
+      "cooked_chicken": "2025-06-05 00:54:32 +0000",
       "cooked_mutton": "2025-06-04 04:04:49 +0000",
       "cooked_beef": "2025-06-04 02:55:36 +0000"
     },
@@ -1662,6 +1664,18 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-06-05 00:45:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-06-05 00:58:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-06-05 01:00:08 +0000"
     },
     "done": true
   },
