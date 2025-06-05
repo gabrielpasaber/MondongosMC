@@ -514,7 +514,8 @@
       "bread": "2025-06-04 04:30:44 +0000",
       "cooked_chicken": "2025-06-05 00:54:32 +0000",
       "cooked_mutton": "2025-06-04 04:04:49 +0000",
-      "cooked_beef": "2025-06-04 02:55:36 +0000"
+      "cooked_beef": "2025-06-04 02:55:36 +0000",
+      "baked_potato": "2025-06-05 02:02:20 +0000"
     },
     "done": false
   },
@@ -1711,19 +1712,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
-    "criteria": {
-      "has_nether_bricks": "2025-06-05 01:51:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:crimson_forest": "2025-06-05 01:47:58 +0000",
-      "minecraft:nether_wastes": "2025-06-05 01:50:28 +0000"
-    },
-    "done": false
-  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-06-05 01:47:57 +0000"
@@ -1736,15 +1724,46 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+  "minecraft:nether/explore_nether": {
     "criteria": {
-      "has_nether_bricks": "2025-06-05 01:51:19 +0000"
+      "minecraft:crimson_forest": "2025-06-05 01:47:58 +0000",
+      "minecraft:nether_wastes": "2025-06-05 01:50:28 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-06-05 01:48:29 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/crimson_planks": {
     "criteria": {
       "has_logs": "2025-06-05 01:50:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-06-05 01:50:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-06-05 01:50:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-05 01:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-05 01:51:19 +0000"
     },
     "done": true
   },
@@ -1757,12 +1776,6 @@
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2025-06-05 01:51:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_hyphae": {
-    "criteria": {
-      "has_log": "2025-06-05 01:50:24 +0000"
     },
     "done": true
   },
@@ -1787,18 +1800,6 @@
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2025-06-05 01:51:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "fortress": "2025-06-05 01:50:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2025-06-05 01:48:29 +0000"
     },
     "done": true
   },
