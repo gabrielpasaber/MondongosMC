@@ -13,11 +13,12 @@
       "minecraft:forest": "2025-06-04 04:12:17 +0000",
       "minecraft:taiga": "2025-06-04 04:14:51 +0000",
       "minecraft:river": "2025-06-04 02:53:51 +0000",
-      "minecraft:swamp": "2025-06-04 02:51:27 +0000",
       "minecraft:stony_shore": "2025-06-04 04:12:05 +0000",
+      "minecraft:dripstone_caves": "2025-06-04 03:34:50 +0000",
+      "minecraft:deep_dark": "2025-06-05 01:22:42 +0000",
+      "minecraft:swamp": "2025-06-04 02:51:27 +0000",
       "minecraft:windswept_gravelly_hills": "2025-06-04 04:02:31 +0000",
       "minecraft:windswept_hills": "2025-06-04 03:00:46 +0000",
-      "minecraft:dripstone_caves": "2025-06-04 03:34:50 +0000",
       "minecraft:plains": "2025-06-04 02:57:46 +0000"
     },
     "done": false
@@ -675,6 +676,7 @@
       "minecraft:zombie": "2025-06-04 03:12:29 +0000",
       "minecraft:creeper": "2025-06-04 03:33:59 +0000",
       "minecraft:drowned": "2025-06-05 00:28:42 +0000",
+      "minecraft:zombie_villager": "2025-06-05 01:25:55 +0000",
       "minecraft:bogged": "2025-06-04 03:18:54 +0000"
     },
     "done": false
@@ -1834,6 +1836,12 @@
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-06-05 00:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-05 01:24:20 +0000"
     },
     "done": true
   },

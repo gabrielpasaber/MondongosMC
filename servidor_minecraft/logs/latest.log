@@ -60,3 +60,9 @@
 [01:13:51] [Server thread/INFO]: Jhacops32 has made the advancement [Suit Up]
 [01:15:07] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=1900, y=70, z=247} ji{x=1901, y=70, z=247}
 [01:15:09] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=1896, y=69, z=249} ji{x=1896, y=68, z=250}
+[01:21:33] [Server thread/INFO]: [Palmarsisa: Set own game mode to Spectator Mode]
+[01:21:49] [Server thread/INFO]: [Palmarsisa: Set own game mode to Creative Mode]
+[01:21:52] [Server thread/INFO]: [Palmarsisa: Set own game mode to Spectator Mode]
+[01:21:54] [Server thread/INFO]: [Palmarsisa: Set own game mode to Survival Mode]
+[01:28:11] [Server thread/INFO]: Palmarsisa was blown up by Creeper
+[01:29:51] [Server thread/INFO]: [Palmarsisa: Set own game mode to Spectator Mode]
