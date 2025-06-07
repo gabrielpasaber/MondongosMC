@@ -385,6 +385,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "golden_apple": "2025-06-07 03:35:43 +0000",
       "cooked_chicken": "2025-06-04 04:23:03 +0000",
       "rotten_flesh": "2025-06-04 03:12:00 +0000",
       "cooked_mutton": "2025-06-04 03:00:17 +0000",
@@ -437,9 +438,11 @@
       "minecraft:enderman": "2025-06-07 02:52:24 +0000",
       "minecraft:witch": "2025-06-07 03:21:47 +0000",
       "minecraft:spider": "2025-06-04 03:38:52 +0000",
+      "minecraft:vex": "2025-06-07 03:41:37 +0000",
       "minecraft:zombie": "2025-06-04 03:06:48 +0000",
       "minecraft:drowned": "2025-06-05 00:30:10 +0000",
-      "minecraft:ravager": "2025-06-07 03:33:33 +0000"
+      "minecraft:ravager": "2025-06-07 03:33:33 +0000",
+      "minecraft:evoker": "2025-06-07 03:42:06 +0000"
     },
     "done": false
   },
@@ -1829,6 +1832,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/suspicious_stew_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-06-07 03:36:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-06-07 02:32:58 +0000"
@@ -1844,6 +1853,12 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-06-07 03:26:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-06-07 03:36:42 +0000"
     },
     "done": true
   },
