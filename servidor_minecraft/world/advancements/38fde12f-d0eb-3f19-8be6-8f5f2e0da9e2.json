@@ -438,7 +438,8 @@
       "minecraft:witch": "2025-06-07 03:21:47 +0000",
       "minecraft:spider": "2025-06-04 03:38:52 +0000",
       "minecraft:zombie": "2025-06-04 03:06:48 +0000",
-      "minecraft:drowned": "2025-06-05 00:30:10 +0000"
+      "minecraft:drowned": "2025-06-05 00:30:10 +0000",
+      "minecraft:ravager": "2025-06-07 03:33:33 +0000"
     },
     "done": false
   },
@@ -1804,6 +1805,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-06-07 03:25:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2025-06-07 02:31:55 +0000"
@@ -1831,6 +1838,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-06-07 03:09:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-06-07 03:26:01 +0000"
     },
     "done": true
   },
@@ -1885,6 +1898,12 @@
   "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_copper_block_stonecutting": {
     "criteria": {
       "has_waxed_copper_block": "2025-06-07 02:56:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-06-07 03:25:47 +0000"
     },
     "done": true
   },
