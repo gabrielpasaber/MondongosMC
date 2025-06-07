@@ -432,6 +432,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-06-04 03:04:11 +0000",
       "minecraft:phantom": "2025-06-04 05:11:56 +0000",
+      "minecraft:enderman": "2025-06-07 02:52:24 +0000",
       "minecraft:spider": "2025-06-04 03:38:52 +0000",
       "minecraft:zombie": "2025-06-04 03:06:48 +0000",
       "minecraft:drowned": "2025-06-05 00:30:10 +0000"
@@ -1725,6 +1726,12 @@
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2025-06-07 02:12:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-06-07 02:42:24 +0000"
     },
     "done": true
   },
