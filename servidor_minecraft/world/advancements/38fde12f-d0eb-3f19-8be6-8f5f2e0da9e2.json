@@ -430,9 +430,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-06-07 03:22:28 +0000",
       "minecraft:skeleton": "2025-06-04 03:04:11 +0000",
       "minecraft:phantom": "2025-06-04 05:11:56 +0000",
+      "minecraft:vindicator": "2025-06-07 03:23:47 +0000",
       "minecraft:enderman": "2025-06-07 02:52:24 +0000",
+      "minecraft:witch": "2025-06-07 03:21:47 +0000",
       "minecraft:spider": "2025-06-04 03:38:52 +0000",
       "minecraft:zombie": "2025-06-04 03:06:48 +0000",
       "minecraft:drowned": "2025-06-05 00:30:10 +0000"
@@ -1747,6 +1750,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-06-07 03:21:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_cut_copper_from_waxed_copper_block_stonecutting": {
     "criteria": {
       "has_waxed_copper_block": "2025-06-07 02:56:44 +0000"
@@ -1831,6 +1840,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-07 03:21:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_copper_block_stonecutting": {
     "criteria": {
       "has_waxed_copper_block": "2025-06-07 02:56:44 +0000"
@@ -1846,6 +1861,12 @@
   "minecraft:recipes/building_blocks/waxed_copper_grate_from_waxed_copper_block_stonecutting": {
     "criteria": {
       "has_waxed_copper_block": "2025-06-07 02:56:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-07 03:21:47 +0000"
     },
     "done": true
   },
