@@ -7,17 +7,18 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:deep_cold_ocean": "2025-06-04 04:11:41 +0000",
       "minecraft:cold_ocean": "2025-06-04 04:10:59 +0000",
       "minecraft:flower_forest": "2025-06-04 03:44:13 +0000",
       "minecraft:beach": "2025-06-04 02:48:39 +0000",
+      "minecraft:forest": "2025-06-07 02:16:47 +0000",
       "minecraft:taiga": "2025-06-04 04:14:12 +0000",
       "minecraft:river": "2025-06-04 03:01:08 +0000",
-      "minecraft:swamp": "2025-06-04 02:46:32 +0000",
       "minecraft:stony_shore": "2025-06-04 04:13:13 +0000",
+      "minecraft:dripstone_caves": "2025-06-04 03:56:07 +0000",
+      "minecraft:deep_cold_ocean": "2025-06-04 04:11:41 +0000",
+      "minecraft:swamp": "2025-06-04 02:46:32 +0000",
       "minecraft:windswept_gravelly_hills": "2025-06-04 04:06:32 +0000",
       "minecraft:windswept_hills": "2025-06-04 03:45:37 +0000",
-      "minecraft:dripstone_caves": "2025-06-04 03:56:07 +0000",
       "minecraft:plains": "2025-06-04 04:03:13 +0000"
     },
     "done": false
