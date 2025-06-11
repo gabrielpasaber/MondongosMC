@@ -1,103 +1,25 @@
-[02:07:10] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:07:12] [ServerMain/INFO]: Loaded 1370 recipes
-[02:07:13] [ServerMain/INFO]: Loaded 1481 advancements
-[02:07:13] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[02:07:13] [Server thread/INFO]: Loading properties
-[02:07:13] [Server thread/INFO]: Default game type: SURVIVAL
-[02:07:13] [Server thread/INFO]: Generating keypair
-[02:07:13] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:07:13] [Server thread/INFO]: Using epoll channel type
-[02:07:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:07:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:07:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:07:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:07:13] [Server thread/INFO]: Preparing level "world"
-[02:07:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:07:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:07:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:07:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:07:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:07:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:07:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:07:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:07:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:07:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:07:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:07:18] [Server thread/INFO]: Time elapsed: 4807 ms
-[02:07:18] [Server thread/INFO]: Done (5.172s)! For help, type "help"
-[02:08:18] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[02:09:11] [Server thread/INFO]: IamDJ_Master[/127.4.244.245:36267] logged in with entity id 10 at (1941.699999988079, 63.0, 249.4418465777974)
-[02:09:11] [Server thread/INFO]: IamDJ_Master joined the game
-[02:10:03] [Server thread/INFO]: [Not Secure] <IamDJ_Master> IamDJ_Master
-[02:17:16] [Server thread/INFO]: [Not Secure] [IamDJ_Master] palmar es malo en lol
-[02:18:39] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Spectator Mode]
-[02:18:39] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Survival Mode]
-[02:24:02] [Server thread/INFO]: [IamDJ_Master: Gave 50 [Steak] to IamDJ_Master]
-[02:26:43] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Spectator Mode]
-[02:27:11] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Survival Mode]
-[02:28:26] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Spectator Mode]
-[02:29:11] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Survival Mode]
-[02:31:55] [Server thread/INFO]: IamDJ_Master has made the advancement [Cover Me with Diamonds]
-[02:55:24] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Spectator Mode]
-[02:55:32] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Survival Mode]
-[02:56:33] [Server thread/INFO]: IamDJ_Master has made the advancement [Minecraft: Trial(s) Edition]
-[02:57:07] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Spectator Mode]
-[02:57:12] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Survival Mode]
-[03:09:00] [Server thread/INFO]: IamDJ_Master has made the advancement [Enchanter]
-[03:17:27] [Server thread/INFO]: [IamDJ_Master: Set the time to 1000]
-[03:17:34] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Spectator Mode]
-[03:18:31] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Creative Mode]
-[03:19:06] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Spectator Mode]
-[03:19:11] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Survival Mode]
-[03:21:17] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Spectator Mode]
-[03:21:44] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Survival Mode]
-[03:24:11] [Server thread/INFO]: IamDJ_Master was slain by Vindicator
-[03:25:08] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Spectator Mode]
-[03:25:25] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Survival Mode]
-[03:25:47] [Server thread/INFO]: IamDJ_Master has made the advancement [Ol' Betsy]
-[03:25:47] [Server thread/INFO]: IamDJ_Master has made the advancement [Take Aim]
-[03:26:01] [Server thread/INFO]: IamDJ_Master has made the advancement [Voluntary Exile]
-[03:28:42] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Spectator Mode]
-[03:29:33] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Survival Mode]
-[03:30:49] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Spectator Mode]
-[03:31:15] [Server thread/INFO]: [IamDJ_Master: Set the time to 1000]
-[03:33:05] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Survival Mode]
-[03:34:17] [Server thread/INFO]: IamDJ_Master was slain by Vindicator
-[03:39:57] [Server thread/INFO]: IamDJ_Master was slain by Vindicator
-[03:40:09] [Server thread/INFO]: IamDJ_Master was slain by Vex
-[03:40:37] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Spectator Mode]
-[03:40:43] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Survival Mode]
-[03:43:18] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Spectator Mode]
-[03:43:54] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Survival Mode]
-[03:44:10] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Spectator Mode]
-[03:44:30] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Survival Mode]
-[03:44:42] [Server thread/INFO]: IamDJ_Master was slain by Vindicator
-[03:45:27] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Spectator Mode]
-[03:46:01] [Server thread/WARN]: IamDJ_Master moved too quickly! 10.21389296689199,0.39000001549720764,0.3486092138113577
-[03:46:56] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Survival Mode]
-[03:47:56] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Spectator Mode]
-[03:48:13] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Survival Mode]
-[03:50:15] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Spectator Mode]
-[03:50:35] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Survival Mode]
-[03:50:44] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Spectator Mode]
-[03:51:34] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Survival Mode]
-[03:53:05] [Server thread/INFO]: IamDJ_Master was slain by Vex
-[03:53:18] [Server thread/INFO]: IamDJ_Master was slain by Vex
-[03:54:19] [Server thread/INFO]: IamDJ_Master was slain by Vex
-[03:54:30] [Server thread/INFO]: IamDJ_Master was slain by Vex
-[03:54:40] [Server thread/INFO]: IamDJ_Master was slain by Vindicator
-[03:54:47] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Creative Mode]
-[03:55:57] [Server thread/INFO]: IamDJ_Master has reached the goal [Hired Help]
-[03:56:05] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Survival Mode]
-[03:57:26] [Server thread/INFO]: IamDJ_Master was slain by Vex
-[03:57:50] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Creative Mode]
-[03:58:10] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Survival Mode]
-[03:58:38] [Server thread/INFO]: IamDJ_Master was slain by Vex
-[03:58:50] [Server thread/INFO]: IamDJ_Master has completed the challenge [Hero of the Village]
-[03:58:54] [Server thread/INFO]: IamDJ_Master has reached the goal [Postmortal]
-[03:59:55] [Server thread/WARN]: Player IamDJ_Master just tried to change non-editable sign
-[04:01:12] [Server thread/INFO]: IamDJ_Master has made the advancement [What a Deal!]
-[04:02:08] [Server thread/INFO]: [IamDJ_Master: Applied effect Hero of the Village to IamDJ_Master]
-[04:03:06] [Server thread/INFO]: IamDJ_Master lost connection: Disconnected
-[04:03:06] [Server thread/INFO]: IamDJ_Master left the game
-[04:04:06] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[03:28:04] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:28:06] [ServerMain/INFO]: Loaded 1370 recipes
+[03:28:06] [ServerMain/INFO]: Loaded 1481 advancements
+[03:28:06] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[03:28:06] [Server thread/INFO]: Loading properties
+[03:28:06] [Server thread/INFO]: Default game type: SURVIVAL
+[03:28:06] [Server thread/INFO]: Generating keypair
+[03:28:06] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:28:06] [Server thread/INFO]: Using epoll channel type
+[03:28:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:28:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:28:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:28:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:28:06] [Server thread/INFO]: Preparing level "world"
+[03:28:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:28:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:28:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:28:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:28:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:28:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:28:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:28:10] [Server thread/INFO]: Time elapsed: 2826 ms
+[03:28:10] [Server thread/INFO]: Done (3.089s)! For help, type "help"
+[03:28:15] [Server thread/INFO]: IamDJ_Master[/127.4.244.245:58805] logged in with entity id 10 at (1948.565007075244, 64.0, 243.00349092424992)
+[03:28:15] [Server thread/INFO]: IamDJ_Master joined the game
