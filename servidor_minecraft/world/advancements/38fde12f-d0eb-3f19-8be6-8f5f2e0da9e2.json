@@ -385,11 +385,14 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-06-13 01:23:00 +0000",
       "golden_apple": "2025-06-07 03:35:43 +0000",
+      "bread": "2025-06-13 01:21:24 +0000",
       "cooked_chicken": "2025-06-04 04:23:03 +0000",
       "rotten_flesh": "2025-06-04 03:12:00 +0000",
       "cooked_mutton": "2025-06-04 03:00:17 +0000",
-      "cooked_beef": "2025-06-04 03:47:43 +0000"
+      "cooked_beef": "2025-06-04 03:47:43 +0000",
+      "pumpkin_pie": "2025-06-13 01:04:18 +0000"
     },
     "done": false
   },
@@ -1985,6 +1988,30 @@
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_axe": "2025-06-11 03:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-06-13 00:58:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-06-13 01:12:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-06-13 00:59:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-06-13 00:59:35 +0000"
     },
     "done": true
   },

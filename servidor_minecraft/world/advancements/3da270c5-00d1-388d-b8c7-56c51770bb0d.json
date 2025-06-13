@@ -567,7 +567,9 @@
     "criteria": {
       "bread": "2025-06-04 03:43:17 +0000",
       "golden_apple": "2025-06-05 01:40:11 +0000",
+      "cooked_chicken": "2025-06-13 01:02:49 +0000",
       "rotten_flesh": "2025-06-05 00:32:21 +0000",
+      "cooked_mutton": "2025-06-13 01:05:51 +0000",
       "cooked_beef": "2025-06-04 02:59:18 +0000",
       "cooked_salmon": "2025-06-04 04:03:43 +0000"
     },
@@ -1804,13 +1806,19 @@
     },
     "done": true
   },
-  "minecraft:adventure/minecraft_trials_edition": {
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
-      "minecraft_trials_edition": "2025-06-05 01:35:57 +0000"
+      "has_potato": "2025-06-05 00:37:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-06-05 00:37:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-06-05 00:37:46 +0000"
     },
@@ -1822,21 +1830,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/black_dye": {
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
-      "has_ink_sac": "2025-06-05 02:14:11 +0000"
+      "has_salmon": "2025-06-05 00:53:02 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/fishy_business": {
+  "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
-      "cod": "2025-06-05 01:58:20 +0000"
+      "has_salmon": "2025-06-05 00:53:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
+  "minecraft:recipes/redstone/dispenser": {
     "criteria": {
-      "has_cod": "2025-06-05 01:57:03 +0000"
+      "has_bow": "2025-06-05 01:24:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/minecraft_trials_edition": {
+    "criteria": {
+      "minecraft_trials_edition": "2025-06-05 01:35:57 +0000"
     },
     "done": true
   },
@@ -1853,39 +1867,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
-    "criteria": {
-      "has_salmon": "2025-06-05 00:53:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2025-06-05 00:37:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-06-05 01:49:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato": {
+  "minecraft:recipes/misc/nether_brick": {
     "criteria": {
-      "has_potato": "2025-06-05 00:37:46 +0000"
+      "has_netherrack": "2025-06-05 01:51:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon": {
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
-      "has_salmon": "2025-06-05 00:53:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2025-06-05 01:24:20 +0000"
+      "has_cod": "2025-06-05 01:57:03 +0000"
     },
     "done": true
   },
@@ -1901,15 +1897,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/nether_brick": {
+  "minecraft:husbandry/fishy_business": {
     "criteria": {
-      "has_netherrack": "2025-06-05 01:51:57 +0000"
+      "cod": "2025-06-05 01:58:20 +0000"
     },
     "done": true
   },
   "minecraft:nether/netherite_armor": {
     "criteria": {
       "netherite_armor": "2025-06-05 02:05:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-06-05 02:14:11 +0000"
     },
     "done": true
   },
