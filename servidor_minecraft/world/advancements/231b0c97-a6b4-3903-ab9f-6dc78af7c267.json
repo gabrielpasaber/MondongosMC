@@ -136,6 +136,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-06-13 01:45:35 +0000",
+      "cookie": "2025-06-13 01:54:55 +0000",
       "cooked_cod": "2025-06-13 00:55:18 +0000",
       "cooked_beef": "2025-06-05 02:00:40 +0000",
       "cod": "2025-06-05 02:02:56 +0000",
@@ -839,6 +841,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-06-13 01:39:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-06-13 01:39:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-06-13 01:34:45 +0000"
@@ -864,6 +878,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-06-13 01:39:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-06-13 01:34:12 +0000"
@@ -873,6 +893,18 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-06-13 01:36:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-06-13 01:39:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-06-13 01:38:55 +0000"
     },
     "done": true
   },
@@ -898,6 +930,7 @@
     "criteria": {
       "minecraft:pillager": "2025-06-13 01:34:19 +0000",
       "minecraft:piglin": "2025-06-13 01:35:18 +0000",
+      "minecraft:zombie": "2025-06-13 01:55:15 +0000",
       "minecraft:hoglin": "2025-06-13 01:35:32 +0000"
     },
     "done": false
@@ -920,9 +953,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-06-13 01:39:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2025-06-13 01:34:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-06-13 01:39:17 +0000"
     },
     "done": true
   },
@@ -935,6 +980,12 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-06-13 01:34:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-06-13 01:38:54 +0000"
     },
     "done": true
   },
