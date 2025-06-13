@@ -1,28 +1,54 @@
-[03:28:04] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03:28:06] [ServerMain/INFO]: Loaded 1370 recipes
-[03:28:06] [ServerMain/INFO]: Loaded 1481 advancements
-[03:28:06] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[03:28:06] [Server thread/INFO]: Loading properties
-[03:28:06] [Server thread/INFO]: Default game type: SURVIVAL
-[03:28:06] [Server thread/INFO]: Generating keypair
-[03:28:06] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:28:06] [Server thread/INFO]: Using epoll channel type
-[03:28:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:28:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:28:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:28:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:28:06] [Server thread/INFO]: Preparing level "world"
-[03:28:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:28:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:28:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:28:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:28:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:28:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:28:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:28:10] [Server thread/INFO]: Time elapsed: 2826 ms
-[03:28:10] [Server thread/INFO]: Done (3.089s)! For help, type "help"
-[03:28:15] [Server thread/INFO]: IamDJ_Master[/127.4.244.245:58805] logged in with entity id 10 at (1948.565007075244, 64.0, 243.00349092424992)
-[03:28:15] [Server thread/INFO]: IamDJ_Master joined the game
-[03:52:31] [Server thread/INFO]: IamDJ_Master lost connection: Disconnected
-[03:52:31] [Server thread/INFO]: IamDJ_Master left the game
-[03:53:31] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:40:10] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:40:13] [ServerMain/INFO]: Loaded 1370 recipes
+[00:40:13] [ServerMain/INFO]: Loaded 1481 advancements
+[00:40:13] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[00:40:13] [Server thread/INFO]: Loading properties
+[00:40:13] [Server thread/INFO]: Default game type: SURVIVAL
+[00:40:13] [Server thread/INFO]: Generating keypair
+[00:40:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:40:13] [Server thread/INFO]: Using epoll channel type
+[00:40:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:40:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:40:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:40:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:40:14] [Server thread/INFO]: Preparing level "world"
+[00:40:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:40:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:40:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:40:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:40:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:40:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:40:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:40:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:40:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:40:18] [Server thread/INFO]: Time elapsed: 3724 ms
+[00:40:18] [Server thread/INFO]: Done (4.100s)! For help, type "help"
+[00:41:18] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:42:20] [Server thread/INFO]: IamDJ_Master[/127.4.244.245:43801] logged in with entity id 10 at (1948.14126588993, 65.0, 244.0865805130528)
+[00:42:20] [Server thread/INFO]: IamDJ_Master joined the game
+[00:43:02] [Server thread/INFO]: nicockla[/127.163.50.122:34763] logged in with entity id 295 at (1894.0790249538513, 63.796735600668704, 289.8375910781)
+[00:43:02] [Server thread/INFO]: nicockla joined the game
+[00:46:14] [Server thread/INFO]: Jhacops32[/127.122.74.141:34011] logged in with entity id 798 at (1910.2742747199397, 63.0, 286.6132877727031)
+[00:46:14] [Server thread/INFO]: Jhacops32 joined the game
+[00:46:42] [Server thread/INFO]: Jhacops32 lost connection: You logged in from another location
+[00:46:42] [Server thread/INFO]: Jhacops32 left the game
+[00:46:42] [Server thread/WARN]: handleDisconnection() called twice
+[00:46:43] [Server thread/INFO]: [IamDJ_Master: Made nicockla a server operator]
+[00:46:43] [Server thread/INFO]: Jhacops32[/127.122.74.141:35287] logged in with entity id 922 at (1910.2742747199397, 63.0, 286.6132877727031)
+[00:46:43] [Server thread/INFO]: Jhacops32 joined the game
+[00:47:11] [Server thread/INFO]: [IamDJ_Master: Teleported Jhacops32 to IamDJ_Master]
+[00:47:12] [Server thread/INFO]: [nicockla: Gave 35000 experience points to nicockla]
+[00:47:13] [Server thread/INFO]: Jhacops32 lost connection: Timed out
+[00:47:13] [Server thread/INFO]: Jhacops32 left the game
+[00:47:24] [Server thread/INFO]: Jhacops32[/127.122.74.141:53567] logged in with entity id 1049 at (1943.6901576869473, 63.0, 234.03238457894568)
+[00:47:24] [Server thread/INFO]: Jhacops32 joined the game
+[00:47:35] [Server thread/INFO]: [Not Secure] <IamDJ_Master> pipi
+[00:47:54] [Server thread/INFO]: Jhacops32 lost connection: Timed out
+[00:47:54] [Server thread/INFO]: Jhacops32 left the game
+[00:48:09] [Server thread/INFO]: Jhacops32[/127.122.74.141:60193] logged in with entity id 1151 at (1943.6901576869473, 63.0, 234.03238457894568)
+[00:48:09] [Server thread/INFO]: Jhacops32 joined the game
+[00:48:21] [Server thread/INFO]: [Not Secure] <IamDJ_Master> pupu
+[00:48:39] [Server thread/INFO]: Jhacops32 lost connection: Timed out
+[00:48:39] [Server thread/INFO]: Jhacops32 left the game
+[00:49:02] [Server thread/INFO]: Jhacops32[/127.122.74.141:54891] logged in with entity id 1294 at (1943.6901576869473, 63.0, 234.03238457894568)
+[00:49:02] [Server thread/INFO]: Jhacops32 joined the game
