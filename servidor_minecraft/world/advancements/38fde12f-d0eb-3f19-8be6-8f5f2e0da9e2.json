@@ -390,11 +390,13 @@
       "bread": "2025-06-13 01:21:24 +0000",
       "cooked_rabbit": "2025-06-13 02:03:49 +0000",
       "cooked_chicken": "2025-06-04 04:23:03 +0000",
+      "honey_bottle": "2025-06-13 02:37:12 +0000",
       "rotten_flesh": "2025-06-04 03:12:00 +0000",
       "cookie": "2025-06-13 01:59:10 +0000",
       "cooked_mutton": "2025-06-04 03:00:17 +0000",
       "cooked_beef": "2025-06-04 03:47:43 +0000",
-      "pumpkin_pie": "2025-06-13 01:04:18 +0000"
+      "pumpkin_pie": "2025-06-13 01:04:18 +0000",
+      "golden_carrot": "2025-06-13 02:28:24 +0000"
     },
     "done": false
   },
@@ -2350,9 +2352,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bolt_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-13 02:28:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wind_charge": {
     "criteria": {
       "has_breeze_rod": "2025-06-13 02:20:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/revaulting": {
+    "criteria": {
+      "revaulting": "2025-06-13 02:31:41 +0000"
     },
     "done": true
   },
@@ -2392,9 +2406,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bolt_armor_trim_smithing_template": {
+    "criteria": {
+      "has_bolt_armor_trim_smithing_template": "2025-06-13 02:28:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_oxidized_copper_grate_from_waxed_oxidized_copper_stonecutting": {
     "criteria": {
       "has_waxed_oxidized_copper": "2025-06-13 02:20:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-06-13 02:31:43 +0000"
     },
     "done": true
   },
