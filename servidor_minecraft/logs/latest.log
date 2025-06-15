@@ -1,268 +1,57 @@
-[00:40:10] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:40:13] [ServerMain/INFO]: Loaded 1370 recipes
-[00:40:13] [ServerMain/INFO]: Loaded 1481 advancements
-[00:40:13] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[00:40:13] [Server thread/INFO]: Loading properties
-[00:40:13] [Server thread/INFO]: Default game type: SURVIVAL
-[00:40:13] [Server thread/INFO]: Generating keypair
-[00:40:13] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:40:13] [Server thread/INFO]: Using epoll channel type
-[00:40:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:40:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:40:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:40:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:40:14] [Server thread/INFO]: Preparing level "world"
-[00:40:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:40:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:40:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:40:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:40:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:40:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:40:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:40:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:40:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:40:18] [Server thread/INFO]: Time elapsed: 3724 ms
-[00:40:18] [Server thread/INFO]: Done (4.100s)! For help, type "help"
-[00:41:18] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[00:42:20] [Server thread/INFO]: IamDJ_Master[/127.4.244.245:43801] logged in with entity id 10 at (1948.14126588993, 65.0, 244.0865805130528)
-[00:42:20] [Server thread/INFO]: IamDJ_Master joined the game
-[00:43:02] [Server thread/INFO]: nicockla[/127.163.50.122:34763] logged in with entity id 295 at (1894.0790249538513, 63.796735600668704, 289.8375910781)
-[00:43:02] [Server thread/INFO]: nicockla joined the game
-[00:46:14] [Server thread/INFO]: Jhacops32[/127.122.74.141:34011] logged in with entity id 798 at (1910.2742747199397, 63.0, 286.6132877727031)
-[00:46:14] [Server thread/INFO]: Jhacops32 joined the game
-[00:46:42] [Server thread/INFO]: Jhacops32 lost connection: You logged in from another location
-[00:46:42] [Server thread/INFO]: Jhacops32 left the game
-[00:46:42] [Server thread/WARN]: handleDisconnection() called twice
-[00:46:43] [Server thread/INFO]: [IamDJ_Master: Made nicockla a server operator]
-[00:46:43] [Server thread/INFO]: Jhacops32[/127.122.74.141:35287] logged in with entity id 922 at (1910.2742747199397, 63.0, 286.6132877727031)
-[00:46:43] [Server thread/INFO]: Jhacops32 joined the game
-[00:47:11] [Server thread/INFO]: [IamDJ_Master: Teleported Jhacops32 to IamDJ_Master]
-[00:47:12] [Server thread/INFO]: [nicockla: Gave 35000 experience points to nicockla]
-[00:47:13] [Server thread/INFO]: Jhacops32 lost connection: Timed out
-[00:47:13] [Server thread/INFO]: Jhacops32 left the game
-[00:47:24] [Server thread/INFO]: Jhacops32[/127.122.74.141:53567] logged in with entity id 1049 at (1943.6901576869473, 63.0, 234.03238457894568)
-[00:47:24] [Server thread/INFO]: Jhacops32 joined the game
-[00:47:35] [Server thread/INFO]: [Not Secure] <IamDJ_Master> pipi
-[00:47:54] [Server thread/INFO]: Jhacops32 lost connection: Timed out
-[00:47:54] [Server thread/INFO]: Jhacops32 left the game
-[00:48:09] [Server thread/INFO]: Jhacops32[/127.122.74.141:60193] logged in with entity id 1151 at (1943.6901576869473, 63.0, 234.03238457894568)
-[00:48:09] [Server thread/INFO]: Jhacops32 joined the game
-[00:48:21] [Server thread/INFO]: [Not Secure] <IamDJ_Master> pupu
-[00:48:39] [Server thread/INFO]: Jhacops32 lost connection: Timed out
-[00:48:39] [Server thread/INFO]: Jhacops32 left the game
-[00:49:02] [Server thread/INFO]: Jhacops32[/127.122.74.141:54891] logged in with entity id 1294 at (1943.6901576869473, 63.0, 234.03238457894568)
-[00:49:02] [Server thread/INFO]: Jhacops32 joined the game
-[00:51:15] [Server thread/INFO]: nicockla has made the advancement [Acquire Hardware]
-[00:53:03] [Server thread/INFO]: nicockla has made the advancement [What a Deal!]
-[01:00:12] [Server thread/INFO]: nicockla has made the advancement [Getting an Upgrade]
-[01:00:55] [Server thread/INFO]: nicockla has made the advancement [Stone Age]
-[01:02:20] [Server thread/INFO]: Palmarsisa[/127.229.196.118:49017] logged in with entity id 3856 at (1906.8518081790762, 63.0, 288.77401946309834)
-[01:02:20] [Server thread/INFO]: Palmarsisa joined the game
-[01:02:47] [Server thread/INFO]: [Palmarsisa: Gave 15 [Cooked Chicken] to Palmarsisa]
-[01:03:19] [Server thread/INFO]: [IamDJ_Master: Set the time to 1000]
-[01:03:31] [Server thread/WARN]: IamDJ_Master moved wrongly!
-[01:04:45] [Server thread/INFO]: [Palmarsisa: Applied effect Invisibility to Palmarsisa]
-[01:05:43] [Server thread/INFO]: [Palmarsisa: Teleported Palmarsisa to nicockla]
-[01:06:29] [Server thread/INFO]: [Palmarsisa: Teleported Palmarsisa to nicockla]
-[01:07:51] [Server thread/INFO]: Jhacops32 has made the advancement [Take Aim]
-[01:10:27] [Server thread/INFO]: nicockla was slain by Palmarsisa
-[01:10:33] [Server thread/INFO]: nicockla lost connection: Disconnected
-[01:10:33] [Server thread/INFO]: nicockla left the game
-[01:10:41] [Server thread/INFO]: nicockla[/127.163.50.122:38755] logged in with entity id 5986 at (1949.8252089541775, 63.0, 245.23942266076497)
-[01:10:41] [Server thread/INFO]: nicockla joined the game
-[01:12:19] [Server thread/INFO]: IamDJ_Master has made the advancement [A Seedy Place]
-[01:12:39] [Server thread/INFO]: nicockla lost connection: Disconnected
-[01:12:39] [Server thread/INFO]: nicockla left the game
-[01:17:54] [Server thread/INFO]: [IamDJ_Master: Set the time to 1000]
-[01:23:49] [Server thread/INFO]: Disrupturation[/127.157.55.118:34493] logged in with entity id 8421 at (-47.66456328392787, -34.0, 20.189364770448748)
-[01:23:49] [Server thread/INFO]: Disrupturation joined the game
-[01:24:01] [Server thread/INFO]: [Not Secure] <Disrupturation> ya llegue mano
-[01:24:08] [Server thread/INFO]: [IamDJ_Master: Teleported Disrupturation to IamDJ_Master]
-[01:24:11] [Server thread/INFO]: [Not Secure] <Disrupturation> Poque soy negro
-[01:25:10] [Server thread/INFO]: [Not Secure] <IamDJ_Master> ya vengo
-[01:26:01] [Server thread/INFO]: nicockla[/127.163.50.122:38025] logged in with entity id 9067 at (1918.035610755349, 63.0, 285.957809006586)
-[01:26:01] [Server thread/INFO]: nicockla joined the game
-[01:29:44] [Server thread/INFO]: [nicockla: Set the time to 1000]
-[01:30:00] [Server thread/INFO]: nicockla has made the advancement [Cover Me with Diamonds]
-[01:31:01] [Server thread/INFO]: Artilugios[/127.154.115.120:32873] logged in with entity id 10141 at (9.5, 69.0, 4.5)
-[01:31:01] [Server thread/INFO]: Artilugios joined the game
-[01:32:21] [Server thread/INFO]: Jhacops32 has made the advancement [Cover Me with Diamonds]
-[01:32:57] [Server thread/INFO]: Artilugios has made the advancement [Stone Age]
-[01:33:46] [Server thread/INFO]: Artilugios has made the advancement [Getting an Upgrade]
-[01:34:12] [Server thread/INFO]: nicockla has made the advancement [We Need to Go Deeper]
-[01:34:19] [Server thread/INFO]: nicockla has made the advancement [Monster Hunter]
-[01:37:33] [Server thread/INFO]: Jhacops32 has made the advancement [Getting an Upgrade]
-[01:38:34] [Server thread/INFO]: Jhacops32 has made the advancement [What a Deal!]
-[01:38:54] [Server thread/INFO]: nicockla has made the advancement [Ol' Betsy]
-[01:38:55] [Server thread/INFO]: nicockla has made the advancement [Take Aim]
-[01:39:33] [Server thread/INFO]: IamDJ_Master has made the advancement [We Need to Go Deeper]
-[01:39:33] [Server thread/INFO]: [IamDJ_Master: Teleported IamDJ_Master to nicockla]
-[01:39:40] [Server thread/INFO]: [IamDJ_Master: Teleported IamDJ_Master to nicockla]
-[01:40:19] [Server thread/INFO]: [IamDJ_Master: Set the time to 1000]
-[01:40:46] [Server thread/INFO]: [Not Secure] [IamDJ_Master] pupu
-[01:41:54] [Server thread/INFO]: Artilugios has made the advancement [Acquire Hardware]
-[01:42:06] [Server thread/INFO]: Artilugios has made the advancement [Isn't It Iron Pick]
-[01:42:38] [Server thread/INFO]: [IamDJ_Master: Teleported Artilugios to IamDJ_Master]
-[01:42:43] [Server thread/INFO]: [nicockla: Teleported Artilugios to nicockla]
-[01:43:39] [Server thread/INFO]: Artilugios has made the advancement [Cover Me with Diamonds]
-[01:49:49] [Server thread/INFO]: Artilugios has made the advancement [We Need to Go Deeper]
-[01:50:52] [Server thread/INFO]: [IamDJ_Master: Teleported IamDJ_Master to Artilugios]
-[01:52:21] [Server thread/INFO]: IamDJ_Master was killed by [Intentional Game Design]
-[01:52:26] [Server thread/INFO]: [IamDJ_Master: Teleported IamDJ_Master to Artilugios]
-[01:52:30] [Server thread/INFO]: [IamDJ_Master: Teleported IamDJ_Master to Artilugios]
-[01:52:30] [Server thread/INFO]: IamDJ_Master was doomed to fall by Artilugios
-[01:52:35] [Server thread/INFO]: [IamDJ_Master: Teleported IamDJ_Master to Artilugios]
-[01:53:41] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Creative Mode]
-[01:53:57] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Survival Mode]
-[01:53:59] [Server thread/INFO]: IamDJ_Master was killed by [Intentional Game Design]
-[01:54:34] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Creative Mode]
-[01:55:33] [Server thread/INFO]: Artilugios has made the advancement [Monster Hunter]
-[01:57:02] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Spectator Mode]
-[01:57:02] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Creative Mode]
-[01:57:04] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Survival Mode]
-[01:59:24] [Server thread/INFO]: nicockla has made the advancement [Minecraft: Trial(s) Edition]
-[02:00:02] [Server thread/INFO]: Disrupturation has made the advancement [Minecraft: Trial(s) Edition]
-[02:00:13] [Server thread/INFO]: nicockla has made the advancement [Not Today, Thank You]
-[02:00:22] [Server thread/INFO]: Disrupturation was shot by Skeleton
-[02:00:23] [Server thread/INFO]: nicockla was shot by Skeleton
-[02:00:27] [Server thread/INFO]: Jhacops32 lost connection: Disconnected
-[02:00:27] [Server thread/INFO]: Jhacops32 left the game
-[02:00:32] [Server thread/INFO]: Palmarsisa drowned
-[02:00:32] [Server thread/INFO]: [nicockla: Teleported nicockla to IamDJ_Master]
-[02:00:40] [Server thread/INFO]: nicockla was shot by Skeleton
-[02:00:42] [Server thread/INFO]: [nicockla: Teleported nicockla to IamDJ_Master]
-[02:00:58] [Server thread/INFO]: IamDJ_Master was shot by Skeleton
-[02:01:10] [Server thread/INFO]: [IamDJ_Master: Teleported IamDJ_Master to nicockla]
-[02:01:18] [Server thread/INFO]: IamDJ_Master was shot by Skeleton
-[02:01:24] [Server thread/INFO]: [IamDJ_Master: Teleported IamDJ_Master to nicockla]
-[02:01:35] [Server thread/INFO]: IamDJ_Master was shot by Skeleton
-[02:01:37] [Server thread/INFO]: [IamDJ_Master: Teleported IamDJ_Master to nicockla]
-[02:01:57] [Server thread/INFO]: nicockla has made the advancement [Under Lock and Key]
-[02:02:17] [Server thread/INFO]: Artilugios has made the advancement [Diamonds!]
-[02:02:32] [Server thread/INFO]: IamDJ_Master has made the advancement [Under Lock and Key]
-[02:02:50] [Server thread/INFO]: IamDJ_Master has made the advancement [A Throwaway Joke]
-[02:03:21] [Server thread/INFO]: [nicockla: Teleported Artilugios to nicockla]
-[02:03:21] [Server thread/INFO]: Artilugios has made the advancement [Minecraft: Trial(s) Edition]
-[02:03:39] [Server thread/INFO]: nicockla has made the advancement [Diamonds!]
-[02:04:29] [Server thread/INFO]: IamDJ_Master was slain by Zombie
-[02:04:32] [Server thread/INFO]: [IamDJ_Master: Teleported IamDJ_Master to nicockla]
-[02:04:37] [Server thread/INFO]: nicockla was slain by Zombie
-[02:04:38] [Server thread/INFO]: Artilugios was slain by Zombie
-[02:04:39] [Server thread/INFO]: IamDJ_Master was slain by Zombie
-[02:04:40] [Server thread/INFO]: Disrupturation has made the advancement [Cover Me with Diamonds]
-[02:04:41] [Server thread/INFO]: [nicockla: Teleported nicockla to IamDJ_Master]
-[02:04:43] [Server thread/INFO]: nicockla was slain by Zombie
-[02:04:44] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Spectator Mode]
-[02:04:46] [Server thread/INFO]: [nicockla: Teleported nicockla to IamDJ_Master]
-[02:04:55] [Server thread/INFO]: [nicockla: Teleported nicockla to Disrupturation]
-[02:05:00] [Server thread/INFO]: Artilugios has made the advancement [Suit Up]
-[02:05:02] [Server thread/INFO]: nicockla was slain by Zombie
-[02:05:04] [Server thread/INFO]: [nicockla: Teleported nicockla to Disrupturation]
-[02:05:06] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Survival Mode]
-[02:05:09] [Server thread/INFO]: IamDJ_Master was slain by Zombie
-[02:05:12] [Server thread/INFO]: Disrupturation was slain by Zombie
-[02:05:13] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Spectator Mode]
-[02:05:19] [Server thread/INFO]: nicockla was slain by Zombie
-[02:05:21] [Server thread/INFO]: [nicockla: Teleported nicockla to Disrupturation]
-[02:05:24] [Server thread/INFO]: [nicockla: Teleported nicockla to IamDJ_Master]
-[02:05:27] [Server thread/INFO]: [nicockla: Teleported nicockla to IamDJ_Master]
-[02:05:38] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Survival Mode]
-[02:06:30] [Server thread/INFO]: nicockla was slain by Zombie
-[02:06:34] [Server thread/INFO]: [nicockla: Teleported nicockla to IamDJ_Master]
-[02:06:42] [Server thread/INFO]: nicockla was slain by Zombie
-[02:06:45] [Server thread/INFO]: [nicockla: Teleported nicockla to IamDJ_Master]
-[02:07:27] [Server thread/INFO]: IamDJ_Master was slain by Zombie
-[02:07:30] [Server thread/INFO]: nicockla was slain by Zombie
-[02:07:30] [Server thread/INFO]: [IamDJ_Master: Teleported IamDJ_Master to nicockla]
-[02:07:32] [Server thread/INFO]: [nicockla: Teleported nicockla to IamDJ_Master]
-[02:07:58] [Server thread/INFO]: nicockla was slain by Zombie
-[02:07:59] [Server thread/INFO]: [IamDJ_Master: Teleported Disrupturation to IamDJ_Master]
-[02:08:00] [Server thread/INFO]: [nicockla: Teleported nicockla to IamDJ_Master]
-[02:08:41] [Server thread/INFO]: Disrupturation has made the advancement [Wax Off]
-[02:08:51] [Server thread/INFO]: nicockla was slain by Zombie
-[02:09:09] [Server thread/INFO]: [nicockla: Gave 1 [Netherite Sword] to nicockla]
-[02:09:21] [Server thread/INFO]: [nicockla: Applied enchantment Sharpness V to nicockla's item]
-[02:09:25] [Server thread/INFO]: [nicockla: Teleported nicockla to IamDJ_Master]
-[02:09:37] [Server thread/INFO]: IamDJ_Master was slain by Zombie
-[02:09:40] [Server thread/INFO]: [IamDJ_Master: Teleported Disrupturation to IamDJ_Master]
-[02:09:42] [Server thread/INFO]: [IamDJ_Master: Teleported IamDJ_Master to nicockla]
-[02:09:43] [Server thread/INFO]: [IamDJ_Master: Teleported Disrupturation to IamDJ_Master]
-[02:09:48] [Server thread/INFO]: nicockla was slain by Zombie
-[02:09:52] [Server thread/INFO]: [nicockla: Teleported nicockla to IamDJ_Master]
-[02:10:15] [Server thread/INFO]: nicockla was slain by Zombie
-[02:10:16] [Server thread/INFO]: IamDJ_Master was slain by Zombie
-[02:10:18] [Server thread/INFO]: [nicockla: Teleported nicockla to IamDJ_Master]
-[02:10:22] [Server thread/INFO]: [IamDJ_Master: Teleported IamDJ_Master to nicockla]
-[02:10:25] [Server thread/INFO]: nicockla was slain by Zombie
-[02:10:26] [Server thread/INFO]: Disrupturation has made the advancement [Ol' Betsy]
-[02:10:28] [Server thread/INFO]: [nicockla: Teleported nicockla to IamDJ_Master]
-[02:10:30] [Server thread/INFO]: IamDJ_Master was slain by Zombie
-[02:10:38] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Creative Mode]
-[02:10:40] [Server thread/INFO]: [IamDJ_Master: Teleported IamDJ_Master to nicockla]
-[02:12:03] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Survival Mode]
-[02:12:31] [Server thread/INFO]: [nicockla: Set own game mode to Creative Mode]
-[02:12:37] [Server thread/INFO]: [nicockla: Set own game mode to Survival Mode]
-[02:12:43] [Server thread/INFO]: nicockla lost connection: Disconnected
-[02:12:43] [Server thread/INFO]: nicockla left the game
-[02:12:59] [Server thread/INFO]: nicockla[/127.163.50.122:44495] logged in with entity id 23756 at (1804.387396948848, -20.0, 389.17894258361395)
-[02:12:59] [Server thread/INFO]: nicockla joined the game
-[02:13:37] [Server thread/INFO]: IamDJ_Master lost connection: Disconnected
-[02:13:37] [Server thread/INFO]: IamDJ_Master left the game
-[02:14:11] [Server thread/INFO]: IamDJ_Master[/127.4.244.245:38003] logged in with entity id 23992 at (1798.8245082173146, -16.0, 378.30000001192093)
-[02:14:11] [Server thread/INFO]: IamDJ_Master joined the game
-[02:14:39] [Server thread/INFO]: [IamDJ_Master: Teleported IamDJ_Master to nicockla]
-[02:16:48] [Server thread/INFO]: [IamDJ_Master: Teleported IamDJ_Master to nicockla]
-[02:16:58] [Server thread/INFO]: nicockla has made the advancement [Who Needs Rockets?]
-[02:17:15] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Spectator Mode]
-[02:17:17] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Survival Mode]
-[02:17:44] [Server thread/INFO]: [IamDJ_Master: Teleported Disrupturation to IamDJ_Master]
-[02:18:41] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Spectator Mode]
-[02:18:45] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Survival Mode]
-[02:19:04] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Spectator Mode]
-[02:19:08] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Survival Mode]
-[02:19:10] [Server thread/INFO]: Artilugios drowned
-[02:21:49] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Spectator Mode]
-[02:21:53] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Survival Mode]
-[02:21:55] [Server thread/INFO]: [IamDJ_Master: Teleported Disrupturation to IamDJ_Master]
-[02:21:57] [Server thread/INFO]: [IamDJ_Master: Teleported Disrupturation to IamDJ_Master]
-[02:22:21] [Server thread/INFO]: Artilugios lost connection: Disconnected
-[02:22:21] [Server thread/INFO]: Artilugios left the game
-[02:23:10] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Spectator Mode]
-[02:23:20] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Survival Mode]
-[02:23:22] [Server thread/INFO]: [IamDJ_Master: Teleported Disrupturation to IamDJ_Master]
-[02:23:59] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Spectator Mode]
-[02:24:04] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Survival Mode]
-[02:24:08] [Server thread/INFO]: [IamDJ_Master: Teleported Disrupturation to IamDJ_Master]
-[02:24:49] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Spectator Mode]
-[02:24:55] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Survival Mode]
-[02:25:27] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Spectator Mode]
-[02:25:47] [Server thread/INFO]: [nicockla: Teleported nicockla to IamDJ_Master]
-[02:25:48] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Survival Mode]
-[02:25:51] [Server thread/INFO]: [IamDJ_Master: Teleported Disrupturation to IamDJ_Master]
-[02:27:18] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Spectator Mode]
-[02:27:36] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Survival Mode]
-[02:28:40] [Server thread/INFO]: Disrupturation has made the advancement [Under Lock and Key]
-[02:31:16] [Server thread/INFO]: nicockla has reached the goal [Revaulting]
-[02:31:41] [Server thread/INFO]: IamDJ_Master has reached the goal [Revaulting]
-[02:32:27] [Server thread/INFO]: [IamDJ_Master: Teleported Disrupturation to IamDJ_Master]
-[02:32:34] [Server thread/INFO]: Disrupturation has reached the goal [Revaulting]
-[02:33:12] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Spectator Mode]
-[02:33:48] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Survival Mode]
-[02:33:49] [Server thread/INFO]: [IamDJ_Master: Teleported Disrupturation to IamDJ_Master]
-[02:34:06] [Server thread/INFO]: [nicockla: Teleported nicockla to IamDJ_Master]
-[02:35:18] [Server thread/INFO]: Disrupturation has made the advancement [Take Aim]
-[02:38:36] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Spectator Mode]
-[02:38:39] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Survival Mode]
-[02:38:51] [Server thread/INFO]: [Not Secure] <IamDJ_Master> me dio PIEZA
-[02:38:55] [Server thread/INFO]: [nicockla: Teleported nicockla to IamDJ_Master]
-[02:41:46] [Server thread/INFO]: [Not Secure] <nicockla> VI LA FOTO DE TU CULO EN EL ICLOUUUUUDDDDD
-[02:44:45] [Server thread/INFO]: [IamDJ_Master: Kicked Disrupturation: Kicked by an operator]
-[02:44:45] [Server thread/INFO]: Disrupturation lost connection: Kicked by an operator
-[02:44:45] [Server thread/INFO]: Disrupturation left the game
-[02:45:14] [Server thread/INFO]: nicockla lost connection: Disconnected
-[02:45:14] [Server thread/INFO]: nicockla left the game
-[02:45:17] [Server thread/INFO]: IamDJ_Master lost connection: Disconnected
-[02:45:17] [Server thread/INFO]: IamDJ_Master left the game
-[09:57:13] [Server thread/INFO]: Palmarsisa lost connection: Disconnected
-[09:57:13] [Server thread/INFO]: Palmarsisa left the game
-[09:58:13] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[14:27:20] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:27:22] [ServerMain/INFO]: Loaded 1370 recipes
+[14:27:22] [ServerMain/INFO]: Loaded 1481 advancements
+[14:27:22] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[14:27:22] [Server thread/INFO]: Loading properties
+[14:27:22] [Server thread/INFO]: Default game type: SURVIVAL
+[14:27:22] [Server thread/INFO]: Generating keypair
+[14:27:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:27:23] [Server thread/INFO]: Using epoll channel type
+[14:27:23] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:27:23] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:27:23] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:27:23] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:27:23] [Server thread/INFO]: Preparing level "world"
+[14:27:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:27:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:27:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:27:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:27:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:27:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:27:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:27:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:27:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:27:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:27:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:27:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:27:28] [Server thread/INFO]: Time elapsed: 5217 ms
+[14:27:28] [Server thread/INFO]: Done (5.726s)! For help, type "help"
+[14:27:47] [Server thread/INFO]: Jhacops32[/127.53.193.86:39103] logged in with entity id 10 at (1883.9347062328457, 63.0, 290.5183876901318)
+[14:27:47] [Server thread/INFO]: Jhacops32 joined the game
+[14:28:17] [Server thread/INFO]: Jhacops32 lost connection: Timed out
+[14:28:17] [Server thread/INFO]: Jhacops32 left the game
+[14:28:21] [Server thread/INFO]: Jhacops32[/127.53.193.86:40709] logged in with entity id 306 at (1883.9347062328457, 63.0, 290.5183876901318)
+[14:28:21] [Server thread/INFO]: Jhacops32 joined the game
+[14:28:40] [Server thread/INFO]: IamDJ_Master[/127.4.244.245:42385] logged in with entity id 535 at (1794.5416941844835, -16.0, 396.63808559906306)
+[14:28:40] [Server thread/INFO]: IamDJ_Master joined the game
+[14:28:47] [Server thread/INFO]: Jhacops32 lost connection: You logged in from another location
+[14:28:47] [Server thread/INFO]: Jhacops32 left the game
+[14:28:47] [Server thread/WARN]: handleDisconnection() called twice
+[14:28:48] [Server thread/INFO]: Jhacops32[/127.53.193.86:52041] logged in with entity id 628 at (1883.9347062328457, 63.0, 290.5183876901318)
+[14:28:48] [Server thread/INFO]: Jhacops32 joined the game
+[14:29:00] [Server thread/INFO]: Jhacops32 lost connection: You logged in from another location
+[14:29:00] [Server thread/INFO]: Jhacops32 left the game
+[14:29:01] [Server thread/INFO]: Jhacops32[/127.53.193.86:42933] logged in with entity id 732 at (1883.9347062328457, 63.0, 290.5183876901318)
+[14:29:01] [Server thread/INFO]: Jhacops32 joined the game
+[14:29:31] [Server thread/INFO]: Jhacops32 lost connection: Timed out
+[14:29:31] [Server thread/INFO]: Jhacops32 left the game
+[14:29:38] [Server thread/INFO]: Jhacops32[/127.53.193.86:46599] logged in with entity id 876 at (1883.9347062328457, 63.0, 290.5183876901318)
+[14:29:38] [Server thread/INFO]: Jhacops32 joined the game
+[14:30:07] [Server thread/INFO]: Jhacops32 lost connection: You logged in from another location
+[14:30:07] [Server thread/INFO]: Jhacops32 left the game
+[14:30:08] [Server thread/INFO]: Jhacops32[/127.53.193.86:46431] logged in with entity id 1002 at (1883.9347062328457, 63.0, 290.5183876901318)
+[14:30:08] [Server thread/INFO]: Jhacops32 joined the game
+[14:30:38] [Server thread/INFO]: Jhacops32 lost connection: Timed out
+[14:30:38] [Server thread/INFO]: Jhacops32 left the game
+[14:32:45] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Spectator Mode]
+[14:33:03] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Survival Mode]
