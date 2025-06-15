@@ -2442,5 +2442,11 @@
     },
     "done": true
   },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2025-06-15 15:15:12 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4189
 }
