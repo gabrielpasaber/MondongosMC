@@ -1,59 +1,74 @@
-[14:27:20] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[14:27:22] [ServerMain/INFO]: Loaded 1370 recipes
-[14:27:22] [ServerMain/INFO]: Loaded 1481 advancements
-[14:27:22] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[14:27:22] [Server thread/INFO]: Loading properties
-[14:27:22] [Server thread/INFO]: Default game type: SURVIVAL
-[14:27:22] [Server thread/INFO]: Generating keypair
-[14:27:22] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:27:23] [Server thread/INFO]: Using epoll channel type
-[14:27:23] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:27:23] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:27:23] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:27:23] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:27:23] [Server thread/INFO]: Preparing level "world"
-[14:27:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:27:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:27:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:27:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:27:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:27:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:27:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:27:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:27:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:27:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:27:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:27:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:27:28] [Server thread/INFO]: Time elapsed: 5217 ms
-[14:27:28] [Server thread/INFO]: Done (5.726s)! For help, type "help"
-[14:27:47] [Server thread/INFO]: Jhacops32[/127.53.193.86:39103] logged in with entity id 10 at (1883.9347062328457, 63.0, 290.5183876901318)
-[14:27:47] [Server thread/INFO]: Jhacops32 joined the game
-[14:28:17] [Server thread/INFO]: Jhacops32 lost connection: Timed out
-[14:28:17] [Server thread/INFO]: Jhacops32 left the game
-[14:28:21] [Server thread/INFO]: Jhacops32[/127.53.193.86:40709] logged in with entity id 306 at (1883.9347062328457, 63.0, 290.5183876901318)
-[14:28:21] [Server thread/INFO]: Jhacops32 joined the game
-[14:28:40] [Server thread/INFO]: IamDJ_Master[/127.4.244.245:42385] logged in with entity id 535 at (1794.5416941844835, -16.0, 396.63808559906306)
-[14:28:40] [Server thread/INFO]: IamDJ_Master joined the game
-[14:28:47] [Server thread/INFO]: Jhacops32 lost connection: You logged in from another location
-[14:28:47] [Server thread/INFO]: Jhacops32 left the game
-[14:28:47] [Server thread/WARN]: handleDisconnection() called twice
-[14:28:48] [Server thread/INFO]: Jhacops32[/127.53.193.86:52041] logged in with entity id 628 at (1883.9347062328457, 63.0, 290.5183876901318)
-[14:28:48] [Server thread/INFO]: Jhacops32 joined the game
-[14:29:00] [Server thread/INFO]: Jhacops32 lost connection: You logged in from another location
-[14:29:00] [Server thread/INFO]: Jhacops32 left the game
-[14:29:01] [Server thread/INFO]: Jhacops32[/127.53.193.86:42933] logged in with entity id 732 at (1883.9347062328457, 63.0, 290.5183876901318)
-[14:29:01] [Server thread/INFO]: Jhacops32 joined the game
-[14:29:31] [Server thread/INFO]: Jhacops32 lost connection: Timed out
-[14:29:31] [Server thread/INFO]: Jhacops32 left the game
-[14:29:38] [Server thread/INFO]: Jhacops32[/127.53.193.86:46599] logged in with entity id 876 at (1883.9347062328457, 63.0, 290.5183876901318)
-[14:29:38] [Server thread/INFO]: Jhacops32 joined the game
-[14:30:07] [Server thread/INFO]: Jhacops32 lost connection: You logged in from another location
-[14:30:07] [Server thread/INFO]: Jhacops32 left the game
-[14:30:08] [Server thread/INFO]: Jhacops32[/127.53.193.86:46431] logged in with entity id 1002 at (1883.9347062328457, 63.0, 290.5183876901318)
-[14:30:08] [Server thread/INFO]: Jhacops32 joined the game
-[14:30:38] [Server thread/INFO]: Jhacops32 lost connection: Timed out
-[14:30:38] [Server thread/INFO]: Jhacops32 left the game
-[14:32:45] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Spectator Mode]
-[14:33:03] [Server thread/INFO]: [IamDJ_Master: Set own game mode to Survival Mode]
-[14:47:02] [Server thread/INFO]: Jhacops32[/127.53.193.86:49185] logged in with entity id 4560 at (1883.9347062328457, 63.0, 290.5183876901318)
-[14:47:02] [Server thread/INFO]: Jhacops32 joined the game
+[14:49:02] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:49:04] [ServerMain/INFO]: Loaded 1370 recipes
+[14:49:04] [ServerMain/INFO]: Loaded 1481 advancements
+[14:49:04] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[14:49:04] [Server thread/INFO]: Loading properties
+[14:49:04] [Server thread/INFO]: Default game type: SURVIVAL
+[14:49:04] [Server thread/INFO]: Generating keypair
+[14:49:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:49:04] [Server thread/INFO]: Using epoll channel type
+[14:49:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:49:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:49:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:49:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:49:04] [Server thread/INFO]: Preparing level "world"
+[14:49:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:49:08] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:49:08] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:49:08] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:49:08] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:49:08] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:49:08] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:49:08] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:49:08] [Server thread/INFO]: Time elapsed: 3403 ms
+[14:49:08] [Server thread/INFO]: Done (3.713s)! For help, type "help"
+[14:49:58] [Server thread/INFO]: IamDJ_Master[/127.4.244.245:35109] logged in with entity id 10 at (1882.4282100095259, 63.0, 290.136435707222)
+[14:49:58] [Server thread/INFO]: IamDJ_Master joined the game
+[14:52:21] [Server thread/INFO]: Jhacops32[/127.53.193.86:57461] logged in with entity id 496 at (1886.047559535331, 63.0, 287.0294453642006)
+[14:52:21] [Server thread/INFO]: Jhacops32 joined the game
+[14:52:43] [Server thread/INFO]: Jhacops32 lost connection: You logged in from another location
+[14:52:43] [Server thread/INFO]: Jhacops32 left the game
+[14:52:43] [Server thread/WARN]: handleDisconnection() called twice
+[14:52:44] [Server thread/INFO]: Jhacops32[/127.53.193.86:51385] logged in with entity id 532 at (1886.047559535331, 63.0, 287.0294453642006)
+[14:52:44] [Server thread/INFO]: Jhacops32 joined the game
+[14:53:06] [Server thread/INFO]: Jhacops32 lost connection: You logged in from another location
+[14:53:06] [Server thread/INFO]: Jhacops32 left the game
+[14:53:07] [Server thread/INFO]: Jhacops32[/127.53.193.86:49249] logged in with entity id 581 at (1886.047559535331, 63.0, 287.0294453642006)
+[14:53:07] [Server thread/INFO]: Jhacops32 joined the game
+[14:53:19] [Server thread/INFO]: Jhacops32 lost connection: You logged in from another location
+[14:53:19] [Server thread/INFO]: Jhacops32 left the game
+[14:53:20] [Server thread/INFO]: Jhacops32[/127.53.193.86:45777] logged in with entity id 610 at (1886.047559535331, 63.0, 287.0294453642006)
+[14:53:20] [Server thread/INFO]: Jhacops32 joined the game
+[14:53:25] [Server thread/INFO]: Jhacops32 lost connection: You logged in from another location
+[14:53:25] [Server thread/INFO]: Jhacops32 left the game
+[14:53:26] [Server thread/INFO]: Jhacops32[/127.53.193.86:50717] logged in with entity id 620 at (1886.047559535331, 63.0, 287.0294453642006)
+[14:53:26] [Server thread/INFO]: Jhacops32 joined the game
+[14:53:56] [Server thread/INFO]: Jhacops32 lost connection: Timed out
+[14:53:56] [Server thread/INFO]: Jhacops32 left the game
+[14:54:05] [Server thread/INFO]: Jhacops32[/127.53.193.86:42367] logged in with entity id 698 at (1886.047559535331, 63.0, 287.0294453642006)
+[14:54:05] [Server thread/INFO]: Jhacops32 joined the game
+[14:54:07] [Server thread/INFO]: [IamDJ_Master: Teleported Jhacops32 to IamDJ_Master]
+[14:54:13] [Server thread/INFO]: [IamDJ_Master: Teleported Jhacops32 to IamDJ_Master]
+[14:54:15] [Server thread/INFO]: [IamDJ_Master: Teleported Jhacops32 to IamDJ_Master]
+[14:54:15] [Server thread/INFO]: [IamDJ_Master: Teleported Jhacops32 to IamDJ_Master]
+[14:54:16] [Server thread/INFO]: [IamDJ_Master: Teleported Jhacops32 to IamDJ_Master]
+[14:54:19] [Server thread/INFO]: [IamDJ_Master: Teleported Jhacops32 to IamDJ_Master]
+[14:54:21] [Server thread/INFO]: [IamDJ_Master: Teleported Jhacops32 to IamDJ_Master]
+[14:54:35] [Server thread/INFO]: Jhacops32 lost connection: Timed out
+[14:54:35] [Server thread/INFO]: Jhacops32 left the game
+[14:54:49] [Server thread/INFO]: Jhacops32[/127.53.193.86:46249] logged in with entity id 794 at (1884.7687534237566, 63.0, 287.9222579547632)
+[14:54:49] [Server thread/INFO]: Jhacops32 joined the game
+[14:55:11] [Server thread/INFO]: Jhacops32 lost connection: You logged in from another location
+[14:55:11] [Server thread/INFO]: Jhacops32 left the game
+[14:55:12] [Server thread/INFO]: Jhacops32[/127.53.193.86:39009] logged in with entity id 833 at (1884.7687534237566, 63.0, 287.9222579547632)
+[14:55:12] [Server thread/INFO]: Jhacops32 joined the game
+[14:55:42] [Server thread/INFO]: Jhacops32 lost connection: Timed out
+[14:55:42] [Server thread/INFO]: Jhacops32 left the game
+[14:56:42] [Server thread/INFO]: Jhacops32[/127.53.193.86:35271] logged in with entity id 1002 at (1884.7687534237566, 63.0, 287.9222579547632)
+[14:56:42] [Server thread/INFO]: Jhacops32 joined the game
+[14:57:12] [Server thread/INFO]: Jhacops32 lost connection: Timed out
+[14:57:12] [Server thread/INFO]: Jhacops32 left the game
+[14:57:46] [Server thread/INFO]: Jhacops32[/127.53.193.86:45957] logged in with entity id 1115 at (1884.7687534237566, 63.0, 287.9222579547632)
+[14:57:46] [Server thread/INFO]: Jhacops32 joined the game
+[14:58:16] [Server thread/INFO]: Jhacops32 lost connection: Timed out
+[14:58:16] [Server thread/INFO]: Jhacops32 left the game
